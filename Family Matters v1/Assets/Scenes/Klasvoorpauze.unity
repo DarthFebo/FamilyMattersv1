@@ -1428,7 +1428,7 @@ MonoBehaviour:
   assignedDialogue: FamilyMatters
   interactionCount: 0
   alias: 
-  overrideStartNode: -1
+  overrideStartNode: 1
   defaultNPCSprite: {fileID: 0}
   defaultPlayerSprite: {fileID: 0}
   targetManager: {fileID: 0}

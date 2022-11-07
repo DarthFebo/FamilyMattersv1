@@ -1822,9 +1822,7 @@ MonoBehaviour:
       visible: 1
     - text: 'Mark:
 
-        Laten we
-
-'
+        Ik wil wel..'
       extraData: ExtraData
       inputSetIndex: 7
       outputNodeIndex: -1
@@ -1845,7 +1843,7 @@ MonoBehaviour:
       x: 2210
       y: -380
       width: 348
-      height: 429
+      height: 414
     pTag: 
     expand: 0
     sprite: {fileID: 0}
@@ -1887,7 +1885,7 @@ MonoBehaviour:
     - text: Aan school werken
       extraData: ExtraData
       inputSetIndex: 8
-      outputNodeIndex: 8
+      outputNodeIndex: 11
       outActionIndex: -1
       showmore: 0
       outRect:
@@ -1902,8 +1900,8 @@ MonoBehaviour:
     ID: 8
     rect:
       serializedVersion: 2
-      x: 2610
-      y: -380
+      x: 2600
+      y: -280
       width: 348
       height: 177
     pTag: 
@@ -1912,9 +1910,183 @@ MonoBehaviour:
     vars: []
     varKeys: []
     isPlayer: 1
-  - commentCount: 1
+  - commentCount: 11
     s_comment:
-    - text: Comment...
+    - text: "Mark stelt voor te tuinieren en dat ziet Bram ook wel zitten. Dat komt
+        mooi uit, want John heeft bij de tuinwinkel zijn favoriete planten en kruiden
+        gehaald. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: 12
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 93
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bij het zien van het groen is Bram een beetje verbaasd omdat hij geen
+        standaard bloemen ziet. Het enige wat hij wel ziet wat er een beetje op lijkt
+        is een alata; een vliegenvanger met dichtklappend deksel. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: De plant stinkt. John legt uit dat hij het juist gaaf vind dat wat voor
+        de een stinkt, voor de ander onweerstaanbaar lekker ruikt. Daarnaast doet
+        de val hem denken aan de spannende boeken van vroeger - zoals day of the
+        triffids.
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: 'Hij heeft liever dingen die hem aan iets doen denken of die hem fascineren
+        dan dingen die gewoon mooi zijn. '
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "John legt uit dat wanneer de vliegen door de bloem wordt opgegeten,
+        de cirkel rond is. Natuur wordt door natuur opgenomen, en zo hoort het volgens
+        hem. Ook heeft hij wat knollen gekocht die ze planten. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Daarna laat John zijn zoons wat kruiden proeven. Zijn favoriete kruid
+        is peterselie, omdat het, met de knollen, in een stamppot zat die zijn vader
+        vroeger kookte. Zo rond kerst ook, herinnert John zich. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "De zoons hebben de stamppot nooit geproefd, want opa is lang geleden
+        overleden en de enige die het maakte. Niet dat John niet zou weten hoe hij
+        het moet maken, hij mocht zijn vader regelmatig helpen. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram vraagt of hij een foto mag zien van opa, Mark lacht hem uit en
+        zegt dat dat te lang geleden was. John schiet op zijn beurt in de lach, en
+        zegt dat foto\u2019s echt wel bestonden toen hij jong was. Sterker nog, opa
+        was hobbyfotograaf. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Wanneer John de oude fotomapjes uit de dozen op zolder heeft gevist
+        is het tijd voor wat familiekiekjes en natuurschoon op film. Mark is geraakt
+        door de mooie foto\u2019s, en vraagt waarom opa die nooit heeft verkocht.
+        \r\n"
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "John vertelt dat opa in zijn foto\u2019s probeerde zo goed mogelijk
+        vast te leggen hoe hij zich over het onderwerp voelde, dus dat opa zelf vond
+        dat de foto\u2019s voor anderen geen waarde hadden. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark zegt dat de foto\u2019s juist heel goed het gevoel van de fotograaf
+        doorgeven. John zegt dat hij dat ook vind, maar dat het opa dus meer waarde
+        gaf om ze te houden, zodat hij het moment opnieuw kon voelen."
       extraData: ExtraData
       inputSetIndex: 9
       outputNodeIndex: -1
@@ -1932,19 +2104,143 @@ MonoBehaviour:
     ID: 9
     rect:
       serializedVersion: 2
-      x: 3070
-      y: -530
+      x: 3260
+      y: -2120
       width: 348
-      height: 129
-    pTag: 
+      height: 1334
+    pTag: Tuinieren
     expand: 0
     sprite: {fileID: 0}
     vars: []
     varKeys: []
     isPlayer: 0
-  - commentCount: 1
+  - commentCount: 8
     s_comment:
-    - text: Comment...
+    - text: 'Mark stelt voor in de woonkamer te kamperen. John vind het een prachtplan
+        en haalt oude dekens en doeken van zolder. '
+      extraData: ExtraData
+      inputSetIndex: 10
+      outputNodeIndex: 12
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 63
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Wanneer ze in hun dekenfort/makeshift tent zitten met grote kussens
+        en een zaklamp, begint John over zijn eigen jeugd en vader te vertellen.
+        \r\nHij herinnert zich dat hij met zijn vader en moeder lange stukken reed,
+        en een uitzonderlijke keer mocht vliegen."
+      extraData: ExtraData
+      inputSetIndex: 10
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: " Bram vraagt waarom zij dat eigenlijk nooit doen. John legt uit dat,
+        onder andere op zijn reizen - hij zag hoe vervuilend mensen kunnen zijn.
+        Nu hij wat ouder is en de gevolgen ook echt weet probeert hij zo min mogelijk
+        voetafdruk achter te laten. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 10
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark vraagt om meer verhalen van vroeger. John ziet zijn kans schoon
+        de jongens wat van zijn jeugd te laten zien en gaat zijn platen halen. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 10
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Na wat gekloot met de versterker en de speler klinken er ineens oude
+        jazznoten. Hij vertelt dat het de oude platen van zijn vader zijn, maar dat
+        zijn moeder ze niet mooi vond. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 10
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Toen zijn vader overleed heeft John ze bewaard tot hij uit huis ging,
+        maar toen ook zijn vriendin Yvonne de platen verschrikkelijk bleek te vinden,
+        verdwenen ze op een stuk zolder speciaal gereserveerd voor diep weggestopte
+        plezieren die je partner niet kan waarderen. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 10
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Nu John zo de tonen hoort kan hij bijna zijn vaders stamppot nog ruiken,
+        die die vroeger maakte, zo rond kerst. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 10
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: 'De jongens hebben hun vader al een tijd niet zo vrolijk gezien. Na de
+        jazzplaten draait John wat disconummers uit zn tienerjaren en laat wat nooit
+        eerder vertoonde dancemoves zien, tot plezier van Bram en plaatsvervangende
+        schaamte van Mark.
+
+'
       extraData: ExtraData
       inputSetIndex: 10
       outputNodeIndex: -1
@@ -1962,10 +2258,1808 @@ MonoBehaviour:
     ID: 10
     rect:
       serializedVersion: 2
-      x: 3060
-      y: -370
+      x: 3260
+      y: -760
+      width: 348
+      height: 1022
+    pTag: Dekenfort
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 10
+    s_comment:
+    - text: "Mark besluit om aan zijn afstudeeropdracht te werken. John vertelt hem
+        dat hij eens op zolder moet kijken naar de oude foto\u2019s van opa, want
+        die was hobbyfotograaf. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: 12
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 108
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark is verrast door deze nieuwe info en gaat op zoek. Achter op zolder
+        vind hij vanalles wat hem nooit eerder is opgevallen. Naast de foto apparatuur
+        liggen onder andere oude jazzplaten en schetsen van een paar bloemen. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Hij neemt zijn vondst mee om aan Bram en John te laten zien, die ondertussen
+        samen in de tuin aan het moffelen waren. Hij is onder de indruk van de foto\u2019s.
+        \r\n"
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "John vertelt dat opa in zijn foto\u2019s probeerde zo goed mogelijk
+        vast te leggen hoe hij zich over het onderwerp voelde, dus dat opa zelf vond
+        dat de foto\u2019s voor anderen geen waarde hadden. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark zegt dat de foto\u2019s juist heel goed het gevoel van de fotograaf
+        doorgeven. John zegt dat hij dat ook vind, maar dat het opa dus meer waarde
+        gaf om ze te houden, zodat hij het moment opnieuw kon voelen. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Daarna vraagt Mark wat voor schetsen de bloemen zijn. John zegt dat
+        hij die zelf heeft gemaakt in zijn studententijd, omdat hij ze zo gaaf vond.
+        Het zijn zijn favoriete bloemen.  \r\n"
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Als traditie tekende hij wanneer zijn vader zijn welbekende knollenpot
+        stond te koken voor kerstavond, en als opa klaar was met koken was John klaar
+        met tekenen. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "De val van de bloemen doet hem denken aan de spannende boeken van vroeger
+        - zoals day of the triffids. Hij heeft liever dingen die hem aan iets doen
+        denken of die hem fascineren dan dingen die gewoon standaard zijn. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Dan krijgt Bram de meegebrachte platen in het oog. Dit ziet John als
+        een mooie kans te laten zien \u2018waar zij vroeger op swingden\u2019. Ook
+        deze platen waren van opa, maar oma vond ze niet mooi. Yvonne ook niet. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Ze zetten de platen aan en John en Bram beginnen te dansen. Mark is
+        ge\xEFnspireerd door dit familieplezier en besluit een paar kiekjes te schieten.
+        \r\n"
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 11
+    rect:
+      serializedVersion: 2
+      x: 3260
+      y: 270
+      width: 348
+      height: 1225
+    pTag: Schoolwerk
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 12
+    s_comment:
+    - text: "Het is tijd om het kerstdiner voor te bereiden. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: 13
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 48
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "John: \r\nOma heeft gevraagd of wij het hoofdgerecht voor het kerstdiner
+        kunnen maken. Dus ik heb het recept voor gratin alweer gegoogeld.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nAh nee, weer gratin? Die ouderwetse kledder?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nIk vind het lekker. Vooral als oma het heeft gemaakt.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "John: \r\nEn bedankt.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nNee ik vind het ook wel lekker. We doen t alleen altijd. Matthijs
+        kwam nog met sushi.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "John: \r\nSushi? Ik denk dat je met een zo\u2019n rol oma een rolberoerte
+        bezorgt\r.\n"
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nKunnen we niet dat knoppelpot van opa eten waar je over vertelde?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "John: \r\nKnollenpot? Dat zou wel kunnen. Mooie memorylane voor onze
+        ouwe knarren.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nNou, wat gaan we doen?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "John: \r\nJij mag het zeggen. Hebben we toch nog met je verantwoordelijkheid
+        geoefend.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: 'Mark:
+
+        Dan koken we'
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 12
+    rect:
+      serializedVersion: 2
+      x: 4030
+      y: -740
+      width: 348
+      height: 903
+    pTag: 
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 3
+    s_comment:
+    - text: gratin.
+      extraData: ExtraData
+      inputSetIndex: 13
+      outputNodeIndex: 14
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: sushi.
+      extraData: ExtraData
+      inputSetIndex: 13
+      outputNodeIndex: 15
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 87
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: opa's knollenpot.
+      extraData: ExtraData
+      inputSetIndex: 13
+      outputNodeIndex: 16
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 111
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 13
+    rect:
+      serializedVersion: 2
+      x: 4510
+      y: -770
+      width: 348
+      height: 177
+    pTag: Eten koken
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 1
+  - commentCount: 1
+    s_comment:
+    - text: Het gezin gaat gratin koken.
+      extraData: ExtraData
+      inputSetIndex: 14
+      outputNodeIndex: 17
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 14
+    rect:
+      serializedVersion: 2
+      x: 4960
+      y: -950
       width: 348
       height: 129
+    pTag: Gratin
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Het gezin gaat sushi maken.
+      extraData: ExtraData
+      inputSetIndex: 15
+      outputNodeIndex: 17
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 15
+    rect:
+      serializedVersion: 2
+      x: 4960
+      y: -740
+      width: 348
+      height: 129
+    pTag: Sushi
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Het gezin gaat opa's knollenpot koken.
+      extraData: ExtraData
+      inputSetIndex: 16
+      outputNodeIndex: 17
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 16
+    rect:
+      serializedVersion: 2
+      x: 4960
+      y: -550
+      width: 348
+      height: 139
+    pTag: Knollenpot
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 30
+    s_comment:
+    - text: 'Het is eerste Kerstdag en de familie zit bij oma.
+
+'
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: 18
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 48
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nIk vond het echt leuk om te koken, oma!\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nDat vind ik fijn, kind. Heb je Balthazar gegrild?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nWat! Oma, doe niet zo raar!\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Yvonne: \r\nHet mag dan wel kerst zijn, onze Balthazar is Flappie nog
+        niet.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nFlappie? Wie is dat?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nOhnee he..\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: '*deurbel
+
+'
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nGered door de bel! Kom, Bram, dat zal Matthijs zijn! Laten
+        we hem maar gauw binnen laten voor hij begint te klagen over z\u2019n kerstballen.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Yvonne wil wat zeggen maar Mark loopt snel met z\u2019n broertje de
+        kamer uit. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Even later komen ze terug gevolgd door Matthijs, die kerstmake-up draagt.
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nWat heb jij nou op je kop? Ik dacht van je werk zou komen maar
+        daar ben je niet zo heen gegaan toch? Wat je thuis doet moet je zelf weten
+        maar..\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nMaar hij werkt toch in een\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nRestaurant.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nJa, jammer dat ze daar alleen sushi serveren want die vreemdigheid
+        hoef ik allemaal niet.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nSushi? Valt de sushi dan niet op de grond als ze staan te
+        dansen?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nDansen?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nLaat maar oma, Bram heeft een levendige fantasie, h\xE8 Bram?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nMaar -\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nKom vriend, je moet me even met m\u2019n shirt in de badkamer
+        helpen, die is uit mn broek geschoten.\r\n\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: '*De broers lopen naar de badkamer*
+
+'
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nWat doen jullie nou raar? Oom Matthijs werkt toch niet in
+        een sushirestaurant?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nNee, maar oma zou het niet zo leuk vinden als ze weet waar
+        Matthijs wel werkt.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nHoezo dan?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nDa\u2019s lastig uit te leggen. Oma is al oud, en vroeger
+        gingen dingen anders. Die dingen vind zij normaal, en ze vind het misschien
+        een beetje spannend dat er allemaal nieuwe dingen komen. \r\n\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: 'Mark:
+
+        Jij vind het toch ook spannend als je naar een nieuwe
+        klas moet en je weet niet wat er dan gaat gebeuren?
+
+'
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nJa dat is zo. Maar dat is meestal alleen in het begin. Ik
+        vind het daarna wel leuk. Maar wat vind oma dan niet normaal?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nUh, ja, ik denk dat ze het een beetje gek vind als Matthijs
+        make-up draagt.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nMaar het is zo mooi!\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nDat vind ik ook.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 17
+    rect:
+      serializedVersion: 2
+      x: 5480
+      y: -1770
+      width: 348
+      height: 2115
+    pTag: 
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 2
+    s_comment:
+    - text: Stel Bram voor ook make-up op te doen
+      extraData: ExtraData
+      inputSetIndex: 18
+      outputNodeIndex: 19
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Stel Bram voor terug te gaan
+      extraData: ExtraData
+      inputSetIndex: 18
+      outputNodeIndex: 20
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 97
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 18
+    rect:
+      serializedVersion: 2
+      x: 5970
+      y: -1060
+      width: 348
+      height: 163
+    pTag: 
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 1
+  - commentCount: 23
+    s_comment:
+    - text: 'Ze rommelen in de tas van Yvonne en vinden make-up. Ze maken elkaar
+        op, lekker in de kerstkleuren. Papa klopt op de deur van de wc/badkamer.
+
+'
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: 21
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 93
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "John: \r\nSorry mannen maar ik heb een beetje buikpijn, ik moet echt
+        - wat is dit nou?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nWe wilden ook make-up\r.\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\n#makeupmetMatthijs.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "John: \r\nWillen jullie oma een hartaanval bezorgen ofzo\r?\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nNee, maar we vonden het sneu dat oma zo tegen Matthijs deed,
+        terwijl het zo mooi staat! \r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "John: \r\nJullie zijn lieverds. Nou, hop aan de kant, ik moet nu echt
+        - *smijt wc deur dicht\r*\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "De jongens lopen terug naar het gezelschap\r."
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nWat is dit nou?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nBram vond Matthijs\u2019 make-up zo mooi dat hij het ook wilde.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Matthijs: \r\nEn het staat jullie nog mooier!\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nNou ja, ik weet niet wat ik hier nou van\r -\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Yvonne: \r\nMa - doe even gezellig, we zijn hier nou met z'n allen,
+        hoe vaak gebeurt dat?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nHeh? Ja ja dat is ook wel zo. Soms laat ik me even gaan, sorry.
+        Ik ben het niet gewend. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: 'John komt terug
+
+'
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nHeb jij ze op dit idee gebracht?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "John: \r\nNee, ik was even naar de wc. Vind je het ze niet mooi staan
+        dan?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nIk ben gewoon bang wat er gebeurt als ze zo over straat gaan.
+        Mijn buurjongen vroeger werd eens halfdood geslagen omdat ie van de andere
+        kant was.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Yvonne: \r\nMA! Doe even een beetje rustig! Dat zijn andere tijden joh!
+        Het is Kerst en het staat hartstikke feestelijk!\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nJa ja ok ok. Ik moet het verleden af en toe loslaten. *richt
+        zich tot jongens\r\nHet staat jullie ook eigenlijk wel mooi. Heb je die kleuren
+        zelf uitgekozen Bram?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nJa, ik ben de kerstboom! Goud van de slingers, groen van de
+        naalden en bruin van de stam.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nEn Mark?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Bram: \r\nDat is toch duidelijk. Die is bal.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 19
+    rect:
+      serializedVersion: 2
+      x: 6480
+      y: -2310
+      width: 348
+      height: 1667
+    pTag: Makeup
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 19
+    s_comment:
+    - text: 'De jongens gaan terug naar de rest.
+
+'
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: 21
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 48
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nHoe gaat het eigenlijk op school, Mark?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nGoed hoor.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nBen je al bijna klaar?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nJa, ik moet nog iets meer dan een halfjaar. Ik moet alleen
+        nog een afstudeeronderwerp kiezen.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nWeet je al wat?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \nNiet echt. Mensen uit mijn jaar lijken er al klaar voor, sommigen
+        hebben al een eigen bedrijf. Huwelijksfoto's, natuurfoto's.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nEn waarom weet jij het nog niet dan? \r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nHet lijkt allemaal zo betekenisloos. Je ziet hoe de wereld
+        afglijdt in oorlog en rampen, wat maken foto\u2019s dan nog uit?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nAch klets. Lieverd, elke generatie denkt dat de wereld met
+        ze vergaat. Dat hoort erbij. Nu met al die sociale media overal lijkt het
+        gewoon alsof het er ook overal zo aan toe gaat. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma:\r\nHet belangrijkste is dat je op jezelf let, en dat doe je door
+        een vak te kiezen en hard te werken zodat er brood op de plank komt. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: 'Oma:
+
+        Waarom ga je niet ook huwelijken fotograferen? Mensen
+        zullen altijd blijven trouwen. Lijkt me daarnaast hartstikke leuk om te doen
+        en wie weet vind je zelf nog een leuke meid.
+
+'
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nJa, ik weet niet..\r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nLuister nou maar naar je oma.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nJa oma.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Matthijs: \r\nAch mam, laat hem toch. We zijn hier om gezellig met de
+        familie te doen, niet om over school te praten. Gun die jongen zijn vakantie.\r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nIk wil gewoon dat hij goed terechtkomt. Dat weet je toch, Mark?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Mark: \r\nJa oma. \r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "Oma: \r\nGoed kind. Nou, zullen we zo gaan eten?\r\n"
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 20
+    rect:
+      serializedVersion: 2
+      x: 6480
+      y: -620
+      width: 348
+      height: 1486
+    pTag: Geenmu
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: 'De familie schuift aan tafel. Papa haalt het eten uit de keuken. Hij
+        zet de schaal neer, en trekt het aluminium van de bovenkant. Hij onthult
+        met trots jullie zelfgemaakte:
+
+'
+      extraData: ExtraData
+      inputSetIndex: 21
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 21
+    rect:
+      serializedVersion: 2
+      x: 7170
+      y: -1020
+      width: 348
+      height: 243
     pTag: 
     expand: 0
     sprite: {fileID: 0}

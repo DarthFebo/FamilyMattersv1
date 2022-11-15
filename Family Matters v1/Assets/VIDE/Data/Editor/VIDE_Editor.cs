@@ -2945,7 +2945,6 @@ public class VIDE_Editor : EditorWindow
 
     void DrawMMEditBar(Rect editRect)
     {
-
         GUIStyle boxBackst = new GUIStyle(GUI.skin.box);
         boxBackst.normal.background = mapTex;
         GUIStyle text1st = new GUIStyle(GUI.skin.label);
@@ -5897,9 +5896,21 @@ public class VIDE_Editor : EditorWindow
                 line = sr.ReadLine();
                 while (line.Contains("#COMMENT#"))
                 {
+                    var comment = new StringBuilder();
+
                     line = sr.ReadLine();
-                    comments.Add(line);
-                    line = sr.ReadLine();
+                    while (!line.Contains("#COMMENT#") && !line.Contains("---------------------------------"))
+                    {
+                        comment.AppendLine(line);
+                        line = sr.ReadLine();
+                    }
+
+                    comment = comment.Remove(comment.Length - 1, 1);
+                    comments.Add(comment.ToString());
+
+                    //line = sr.ReadLine();
+                    //comments.Add(line);
+                    //line = sr.ReadLine();
                 }
 
                 if (nodeID != -1)

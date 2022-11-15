@@ -1,0 +1,109 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Bram staat op het schoolplein naar de kikker te kijken. Omar, een vriendje, komt erbij kijken. ‘Volgens mij is ie dood’ zegt Omar. ‘Ja, dat denk ik ook’, zegt Bram. ‘Ik had in de zomer een begrafenis van mijn opa’ zegt Omar. ‘die was ook dood’.
+
+#COMMENT#
+Bram: 
+Wat moeten we nu doen?
+#COMMENT#
+Omar: 
+Laten we de juf halen.
+#COMMENT#
+Juf: 
+Ohjee, wat hebben we hier?
+#COMMENT#
+Omar: 
+Nou, een kikker
+#COMMENT#
+Bram:
+Hij is dood. 
+#COMMENT#
+Juf:
+Ahja, ik zie het. En wat nu?
+#COMMENT#
+Bram: 
+Nou, dat weet jij toch?
+#COMMENT#
+Juf: 
+We kunnen hem ook in een zakje in de prullenbak doen
+#COMMENT#
+Omar en Bram kijken verschrikt
+#COMMENT#
+Bram: 
+Dat doe je toch niet!
+#COMMENT#
+Omar: 
+De prullenbak is voor afval en vieze dingen!
+#COMMENT#
+Juf: 
+Ja, maar dit is toch ook een beetje vies..
+#COMMENT#
+Bram: 
+Waarom?
+#COMMENT#
+Juf: 
+Ja nou omdat.. Ik weet het eigenlijk ook niet. Wat vinden jullie dan?
+#COMMENT#
+Omar:
+Misschien kunnen we hem begraven? Net als opa.
+#COMMENT#
+Juf:
+Oh dat kan wel. Ik zal even een doos halen.
+#COMMENT#
+Juf haalt doos en wil kikker in de doos schuiven.
+#COMMENT#
+Omar: 
+Wacht! Kikker moet gewassen worden!
+#COMMENT#
+Juf:
+Oh, uh, ok.. Er is nog een kraan buiten.
+#COMMENT#
+Omar: 
+En een zakdoek. Een witte.
+#COMMENT#
+Juf: 
+Waar is dat voor?
+
+#COMMENT#
+Omar: 
+Daar moet kikker in. Het moet goed gebeuren, dan gaat het met kikker ook goed. 
+#COMMENT#
+Juf: 
+Vind je dat belangrijk?
+#COMMENT#
+Omar: 
+Ik denk het wel. Mijn familie doet het ook zo en als ik later dood ben, wil ook ook goed 
+worden verzorgd. Hoe gaat dat bij jou dan later?
+#COMMENT#
+Juf: 
+Nou, daar denk ik eerlijk gezegd niet zo vaak over na. Ik denk in ieder geval niet dat ik ook in een zakdoek hoef. 
+#COMMENT#
+Bram:
+Haha nee, in het toneelpak van vorig jaar
+#COMMENT#
+Juf: 
+Ja ja, met de muziek van de musical zeker.
+#COMMENT#
+Bram: 
+We zullen er een mooi feestje van maken, juf!
+
+#COMMENT#
+Juf:
+Nou, wie weet. Zullen we zo weer naar binnen? Bedankt voor de mooie les, Omar.
+---------------------------------
+#END#

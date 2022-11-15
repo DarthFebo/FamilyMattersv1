@@ -1,0 +1,41 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Family Matters
+#COMMENT#
+Fee van Brummelen
+---------------------------------
+#NODEID#
+1
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Het is de dag voor de kerstvakantie en Bram is op school. Hij kijkt door het raam en ziet in de struiken een dode kikker. Zijn klasgenootje ziet hem ergens naar kijken en volgt geïnteresseerd zijn blik. Wanneer zij de dode kikker ziet, trekt ze zich in afschuw terug.
+
+
+#COMMENT#
+Bram in gedachten: sommige mensen vinden dode dingen eng. Ik niet. Misschien een beetje naar af en toe maar eng? Waarom zou je bang zijn voor iets wat niets doet? 
+
+#COMMENT#
+Het is toch niet meer wat het was. Een beetje als goedkoop pakpapier met vouwen en kreuken wanneer het om iets moois heeft gezeten. Is het dan nog inpakpapier eigenlijk? Wanneer hoorde het nog bij het cadeautje, en wanneer was het gewoon een oude afgepelde schil?
+De schoolbel verstoort de gedachten van Bram. Het is tijd voor pauze.
+
+---------------------------------
+#END#

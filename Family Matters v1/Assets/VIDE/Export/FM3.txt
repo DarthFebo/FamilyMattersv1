@@ -1,0 +1,52 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Aan het eind van de schooldag staat Yvonne, Bram’s moeder, op het plein te wachten met een bakfiets waar een konijnenhok in staat (in een warm dekentje).
+Bram pakt zijn fiets en ze gaan onderweg.
+
+#COMMENT#
+Bram: 
+We gaan nu naar papa toch?
+#COMMENT#
+Yvonne: 
+Jazeker, daar blijven jullie de eerste week van de vakantie. Erna komen jullie bij mij. Ik vond het leuk om jullie nog even te zien voor ik je een week moet missen dus ik ga gezellig mee om een kopje thee te drinken.
+#COMMENT#
+Bram:
+En Balthazar mag gewoon mee?
+#COMMENT#
+Yvonne: 
+Ja, het leek me anders zo eenzaam. Het is toch jullie konijn. En daarnaast heb ik geen zin om zijn hok te verschonen.
+#COMMENT#
+Bram: 
+Dat vind ik niet erg. Het hoort erbij. Soms moet je iets stoms doen om iets leuks te hebben.
+#COMMENT#
+Yvonne: 
+Nou, wat een wijze woorden, Bob Ross.
+#COMMENT#
+Bram: 
+Ik heet Bram.
+#COMMENT#
+Yvonne: 
+Ja ja, t was maar n grapje.
+#COMMENT#
+Bram: 
+Is Mark er zo ook als we bij papa thee drinken?
+#COMMENT#
+Yvonne: 
+Ik denk het wel. Ik weet niet of hij verder nog les had vandaag maar dan zou hij nu zo ongeveer klaar zijn schat ik.
+---------------------------------
+#END#

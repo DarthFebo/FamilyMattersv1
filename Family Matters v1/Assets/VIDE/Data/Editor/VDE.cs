@@ -16,7 +16,6 @@ public class VDE : Editor
 
     public override void OnInspectorGUI()
     {
-
         GUIStyle b = new GUIStyle(GUI.skin.GetStyle("Label"));
         b.fontStyle = FontStyle.Bold;
 

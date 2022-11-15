@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FM3.unity
     guid: 836fae7f8c111674ab3975d2fb13ecab
+  - enabled: 1
+    path: Assets/Scenes/FM4.unity
+    guid: 63b8f716fcd7c2f4ba1af7e586be39c1
   m_configObjects: {}

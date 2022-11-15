@@ -1,0 +1,26 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mark zit in het auditorium van zijn opleiding te luisteren naar een speech van zijn kerndocent over het afstuderen.
+#COMMENT#
+Kerndocent: 
+Realiseer je dat je na de vakantie je voorstel inlevert voor je afstudeerproject! Het is nog maar een halfjaar voor jullie hier op t podium komen staan en ik heb het idee dat bij niet iedereen het kwartje is gevallen hoe snel dat gaat. Voor je het weet staan jullie zelf op dit podium om je diploma op te halen! Als jullie hard werken. Maar dat komt zeker goed! Jullie zijn kunstenaars en ik denk dat jullie eigenlijk al praktisch klaar zijn om losgelaten te worden in de buitenwereld. Jullie moeten het alleen nog zelf gaan geloven.
+
+#COMMENT#
+Mark kijkt om zich heen, ziet allemaal mensen aandachtig knikken en zakt een beetje weg in z’n vest. Hij heeft geen idee wat hij voor zijn afstuderen moet doen. Foto’s maken was altijd zijn lust en zijn leven dus deze studie leek een logische keuze maar hij weet niet of hij er het nut nog van inziet. De wereld laat elke dag nieuwe ellende en drama zien, wat voeg je dan toe als fotograaf? Zijn medestudenten lijken allemaal wel te weten wat ze gaan doen, van bruidsfotografie tot huisdierenfotograaf, en zijn dan ook een stuk enthousiaster dat ze mogen afstuderen. 
+---------------------------------
+#END#

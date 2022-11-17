@@ -1,0 +1,111 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+Makeup
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ze rommelen in de tas van Yvonne en vinden make-up. Ze maken elkaar op, lekker in de kerstkleuren. Papa klopt op de deur van de wc/badkamer.
+
+#COMMENT#
+John: 
+Sorry mannen maar ik heb een beetje buikpijn, ik moet echt - wat is dit nou?
+
+#COMMENT#
+Bram: 
+We wilden ook make-up
+.
+
+#COMMENT#
+Mark: 
+#makeupmetMatthijs.
+
+#COMMENT#
+John: 
+Willen jullie oma een hartaanval bezorgen ofzo
+?
+
+#COMMENT#
+Bram: 
+Nee, maar we vonden het sneu dat oma zo tegen Matthijs deed, terwijl het zo mooi staat! 
+
+#COMMENT#
+John: 
+Jullie zijn lieverds. Nou, hop aan de kant, ik moet nu echt - *smijt wc deur dicht
+*
+
+#COMMENT#
+De jongens lopen terug naar het gezelschap
+.
+#COMMENT#
+Oma: 
+Wat is dit nou?
+
+#COMMENT#
+Mark: 
+Bram vond Matthijs’ make-up zo mooi dat hij het ook wilde.
+
+#COMMENT#
+Matthijs: 
+En het staat jullie nog mooier!
+
+#COMMENT#
+Oma: 
+Nou ja, ik weet niet wat ik hier nou van
+ -
+
+#COMMENT#
+Yvonne: 
+Ma - doe even gezellig, we zijn hier nou met z'n allen, hoe vaak gebeurt dat?
+
+#COMMENT#
+Oma: 
+Heh? Ja ja dat is ook wel zo. Soms laat ik me even gaan, sorry. Ik ben het niet gewend. 
+
+#COMMENT#
+John komt terug
+
+#COMMENT#
+Oma: 
+Heb jij ze op dit idee gebracht?
+
+#COMMENT#
+John: 
+Nee, ik was even naar de wc. Vind je het ze niet mooi staan dan?
+
+#COMMENT#
+Oma: 
+Ik ben gewoon bang wat er gebeurt als ze zo over straat gaan. Mijn buurjongen vroeger werd eens halfdood geslagen omdat ie van de andere kant was.
+
+#COMMENT#
+Yvonne: 
+MA! Doe even een beetje rustig! Dat zijn andere tijden joh! Het is Kerst en het staat hartstikke feestelijk!
+
+#COMMENT#
+Oma: 
+Ja ja ok ok. Ik moet het verleden af en toe loslaten. *richt zich tot jongens
+Het staat jullie ook eigenlijk wel mooi. Heb je die kleuren zelf uitgekozen Bram?
+
+#COMMENT#
+Bram: 
+Ja, ik ben de kerstboom! Goud van de slingers, groen van de naalden en bruin van de stam.
+
+#COMMENT#
+Oma: 
+En Mark?
+
+#COMMENT#
+Bram: 
+Dat is toch duidelijk. Die is bal.
+---------------------------------
+#END#

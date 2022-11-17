@@ -1,0 +1,67 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Matthijs: 
+Sushi! Wat heerlijk!
+
+#COMMENT#
+Oma: 
+Oh god nee, hebben jullie dat nou echt gedaan?
+
+#COMMENT#
+John: 
+De jongens hebben het gekozen, en ze hebben er hard hun best op gedaan
+
+#COMMENT#
+Yvonne: 
+John, ik zei nog zo..
+
+#COMMENT#
+John: 
+Dat is zo, maar de jongens mogen ook wat te zeggen hebben. Het is ook hun feestmaal.
+
+#COMMENT#
+Oma: 
+Ja daar heb je wel gelijk in maar ik hoef die nieuwigheid allemaal niet. Het is niet 
+gebakken noch gerookt.
+
+#COMMENT#
+John: 
+Roken is niet goed voor je. Kom op ma, je moet een beetje met de tijd meegaan! 
+
+#COMMENT#
+Oma: 
+ik ga genoeg met de tijd mee. Alles verandert al. Wat is er mis met een beetje traditie?
+
+#COMMENT#
+John: 
+Geniet gewoon van het diner. Je zal het best lekker vinden. En het belangrijkste is dat 
+we samenzijn toch?
+
+#COMMENT#
+Oma: 
+Vooruit, omdat jullie er zo je best op hebben gedaan. Maar ik wil wel fatsoenlijk bestek!
+
+#COMMENT#
+Bram: 
+Haha je eet sushi toch niet met - 
+
+#COMMENT#
+John: 
+Bram, ga voor je oma mes en vork halen. En gauw n beetje.
+---------------------------------
+#END#

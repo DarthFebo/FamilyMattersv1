@@ -1,0 +1,93 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+Geenmu
+#ISPLAYER#
+False
+---
+#COMMENT#
+De jongens gaan terug naar de rest.
+
+#COMMENT#
+Oma: 
+Hoe gaat het eigenlijk op school, Mark?
+
+#COMMENT#
+Mark: 
+Goed hoor.
+
+#COMMENT#
+Oma: 
+Ben je al bijna klaar?
+
+#COMMENT#
+Mark: 
+Ja, ik moet nog iets meer dan een halfjaar. Ik moet alleen nog een afstudeeronderwerp kiezen.
+
+#COMMENT#
+Oma: 
+Weet je al wat?
+
+#COMMENT#
+Mark: 
+Niet echt. Mensen uit mijn jaar lijken er al klaar voor, sommigen hebben al een eigen bedrijf. Huwelijksfoto's, natuurfoto's.
+
+#COMMENT#
+Oma: 
+En waarom weet jij het nog niet dan? 
+
+#COMMENT#
+Mark: 
+Het lijkt allemaal zo betekenisloos. Je ziet hoe de wereld afglijdt in oorlog en rampen, wat maken foto’s dan nog uit?
+
+#COMMENT#
+Oma: 
+Ach klets. Lieverd, elke generatie denkt dat de wereld met ze vergaat. Dat hoort erbij. Nu met al die sociale media overal lijkt het gewoon alsof het er ook overal zo aan toe gaat. 
+
+#COMMENT#
+Oma:
+Het belangrijkste is dat je op jezelf let, en dat doe je door een vak te kiezen en hard te werken zodat er brood op de plank komt. 
+
+#COMMENT#
+Oma:
+Waarom ga je niet ook huwelijken fotograferen? Mensen zullen altijd blijven trouwen. Lijkt me daarnaast hartstikke leuk om te doen en wie weet vind je zelf nog een leuke meid.
+
+#COMMENT#
+Mark: 
+Ja, ik weet niet..
+
+#COMMENT#
+Oma: 
+Luister nou maar naar je oma.
+
+#COMMENT#
+Mark: 
+Ja oma.
+
+#COMMENT#
+Matthijs: 
+Ach mam, laat hem toch. We zijn hier om gezellig met de familie te doen, niet om over school te praten. Gun die jongen zijn vakantie.
+
+#COMMENT#
+Oma: 
+Ik wil gewoon dat hij goed terechtkomt. Dat weet je toch, Mark?
+
+#COMMENT#
+Mark: 
+Ja oma. 
+
+#COMMENT#
+Oma: 
+Goed kind. Nou, zullen we zo gaan eten?
+
+---------------------------------
+#END#

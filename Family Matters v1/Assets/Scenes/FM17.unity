@@ -1422,6 +1422,10 @@ MonoBehaviour:
   - FM12
   - FM13
   - FM14
+  - FM15
+  - FM16
+  - FM17
+  - FM18
   - FM2
   - FM3
   - FM4
@@ -1438,9 +1442,9 @@ MonoBehaviour:
   - QuestChartDemo
   - TriggeredDude
   - Witch
-  assignedIndex: 12
-  assignedID: 45727
-  assignedDialogue: FM13
+  assignedIndex: 16
+  assignedID: 28442
+  assignedDialogue: FM17
   interactionCount: 0
   alias: 
   overrideStartNode: -1
@@ -1486,8 +1490,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21c802c93f536084893b5a638b0f55c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneAsset: {fileID: 102900000, guid: 6963ff095c272c44081e9f1467746340, type: 3}
-  sceneName: Assets/Scenes/FM14.unity
+  sceneAsset: {fileID: 102900000, guid: a0a0f151847d43b43a5078ea4a1d8c2b, type: 3}
+  sceneName: Assets/Scenes/FM18.unity
 --- !u!1 &1843767827
 GameObject:
   m_ObjectHideFlags: 0

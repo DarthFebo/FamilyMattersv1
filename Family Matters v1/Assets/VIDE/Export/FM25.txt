@@ -1,0 +1,42 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oma: 
+Oh wat heerlijk! Dat hoort er toch bij he?
+
+#COMMENT#
+Matthijs: 
+Nou, ik ben wel een beetje toe aan verandering zo af en toe
+.
+
+#COMMENT#
+Oma: 
+Ach zeg, het is maar een keer per jaar. Als je zo oud bent als ik gaan alle dagen hetzelfde voelen.
+
+#COMMENT#
+Mark: 
+Maar speciale dagen dan? Zoals kerst of andere feestdagen?
+
+#COMMENT#
+Oma: 
+Soms. Dit soort dingen, zoals gratin, horen nu eenmaal. En dat we hier met zijn allen gezellig aan tafel zitten. Dat zijn de benodigde ingrediënten. Dan voelt kerst voor mij als kerst. 
+
+#COMMENT#
+Matthijs: 
+Dat snap ik ook, ma, maar voor mij zijn die vaste tradities verplichte nummers geworden. Er hangt geen persoonlijkheid of wat aan vast.
+---------------------------------
+#END#

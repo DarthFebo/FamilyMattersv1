@@ -1,0 +1,133 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Het is eerste Kerstdag en de familie zit bij oma.
+
+#COMMENT#
+Bram: 
+Ik vond het echt leuk om te koken, oma!
+
+#COMMENT#
+Oma: 
+Dat vind ik fijn, kind. Heb je Balthazar gegrild?
+
+#COMMENT#
+Bram: 
+Wat! Oma, doe niet zo raar!
+
+#COMMENT#
+Yvonne: 
+Het mag dan wel kerst zijn, onze Balthazar is Flappie nog niet.
+
+#COMMENT#
+Bram: 
+Flappie? Wie is dat?
+
+#COMMENT#
+Mark: 
+Ohnee he..
+
+#COMMENT#
+*deurbel
+
+#COMMENT#
+Mark: 
+Gered door de bel! Kom, Bram, dat zal Matthijs zijn! Laten we hem maar gauw binnen laten voor hij begint te klagen over z’n kerstballen.
+
+#COMMENT#
+Yvonne wil wat zeggen maar Mark loopt snel met z’n broertje de kamer uit. 
+
+#COMMENT#
+Even later komen ze terug gevolgd door Matthijs, die kerstmake-up draagt.
+#COMMENT#
+Oma: 
+Wat heb jij nou op je kop? Ik dacht van je werk zou komen maar daar ben je niet zo heen gegaan toch? Wat je thuis doet moet je zelf weten maar..
+
+#COMMENT#
+Bram: 
+Maar hij werkt toch in een
+
+#COMMENT#
+Mark: 
+Restaurant.
+
+#COMMENT#
+Oma: 
+Ja, jammer dat ze daar alleen sushi serveren want die vreemdigheid hoef ik allemaal niet.
+
+#COMMENT#
+Bram: 
+Sushi? Valt de sushi dan niet op de grond als ze staan te dansen?
+
+#COMMENT#
+Oma: 
+Dansen?
+
+#COMMENT#
+Mark: 
+Laat maar oma, Bram heeft een levendige fantasie, hè Bram?
+
+#COMMENT#
+Bram: 
+Maar -
+
+#COMMENT#
+Mark: 
+Kom vriend, je moet me even met m’n shirt in de badkamer helpen, die is uit mn broek geschoten.
+
+
+#COMMENT#
+*De broers lopen naar de badkamer*
+
+#COMMENT#
+Bram: 
+Wat doen jullie nou raar? Oom Matthijs werkt toch niet in een sushirestaurant?
+
+#COMMENT#
+Mark: 
+Nee, maar oma zou het niet zo leuk vinden als ze weet waar Matthijs wel werkt.
+
+#COMMENT#
+Bram: 
+Hoezo dan?
+
+#COMMENT#
+Mark: 
+Da’s lastig uit te leggen. Oma is al oud, en vroeger gingen dingen anders. Die dingen vind zij normaal, en ze vind het misschien een beetje spannend dat er allemaal nieuwe dingen komen. 
+
+
+#COMMENT#
+Mark:
+Jij vind het toch ook spannend als je naar een nieuwe klas moet en je weet niet wat er dan gaat gebeuren?
+
+#COMMENT#
+Bram: 
+Ja dat is zo. Maar dat is meestal alleen in het begin. Ik vind het daarna wel leuk. Maar wat vind oma dan niet normaal?
+
+#COMMENT#
+Mark: 
+Uh, ja, ik denk dat ze het een beetje gek vind als Matthijs make-up draagt.
+
+#COMMENT#
+Bram: 
+Maar het is zo mooi!
+
+#COMMENT#
+Mark: 
+Dat vind ik ook.
+---------------------------------
+#END#

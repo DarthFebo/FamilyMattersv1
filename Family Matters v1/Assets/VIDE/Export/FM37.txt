@@ -1,0 +1,123 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Bij het ziekenhuis aangekomen vindt Mark zijn vader alleen op de kamer.
+
+#COMMENT#
+John: 
+Kom binnen, je hebt nèt je moeder en broertje gemist.
+
+#COMMENT#
+Mark: 
+Konden ze niet langer blijven?
+
+#COMMENT#
+John: 
+Ach, het is zo etenstijd en ze hebben ook een lange dag gehad. Je moeder was natuurlijk in alle toonaarden toen ze dit hoorde.
+
+#COMMENT#
+Mark: 
+Ja, wat is er precies gebeurd? Ik dacht dat je nog op de uitslag aan het wachten was.
+
+#COMMENT#
+John: 
+Nou, die was dus zo zorgelijk dat ze het liefst zo snel mogelijk actie ondernamen. Gelukkig was er een gat in de agenda en had ik door mijn buikpijn toch nog niks gegeten dus ik mocht zo aan de beurt! Vind je dat geen service?
+
+#COMMENT#
+Mark: 
+Ik vind het vooral allemaal een beetje heftig op het moment
+
+#COMMENT#
+John: 
+Ach kerel, dat snap ik. Het is een beetje schrikken om je ouwe lul zo te zien, maar maak je maar geen zorgen. Ze hebben een kijkoperatie gedaan en een klein stukje weefsel weggenomen en daaraan kunnen ze zien of het verder goed is. Dus het is nog even afwachten. 
+
+#COMMENT#
+John:
+Het leven gaat gewoon door, laten we niet teveel bij dit soort dingen stil staan. Daarover, moet je ook niet eten zo?
+
+#COMMENT#
+Mark: 
+Dat komt later wel, ik vind het fijn nog even met je te praten, als dat kan.
+
+#COMMENT#
+John: 
+Waar wil je het over hebben?
+
+#COMMENT#
+Mark:
+Ik weet het niet, de zin des levens ofzo?
+
+#COMMENT#
+John: 
+Moet ik je die vertellen?
+
+#COMMENT#
+Mark: 
+Nee dank je. Da’s vast, werk hard op school, slaag, krijg een baan, huisje boompje beestje, en beleg in vastgoed.
+
+#COMMENT#
+John schiet in de lach, ietwat gehinderd door zijn verse verwonding.
+
+#COMMENT#
+John: 
+Hahaha auw ha auw. Waar haal je dat nou weer vandaan. Heb ik je zo materialistisch opgevoed?
+
+#COMMENT#
+Mark: 
+Nee, maar je moet wel een beetje de vaste milestones halen en succes hebben toch?
+
+#COMMENT#
+John: 
+Je moet doen wat jou gelukkig maakt.
+
+#COMMENT#
+Mark: 
+Volgens mij wordt ik alleen blij van anderen gelukkig maken.
+
+#COMMENT#
+John: 
+Dan doe je dat toch? Zolang je er meer energie uithaalt dan dat het je kost zie ik het probleem niet.
+
+#COMMENT#
+Mark: 
+Maar wat moet ik dan, bruidsfotograaf worden? Grappige hondenportretten? Dat doen de mensen uit mijn jaar, maar dat lijkt me niks, hoe blij anderen daar van worden.
+
+#COMMENT#
+John: 
+Dat zei ik ook niet. Ik denk dat je betekenis moet zoeken in wie jij bent als fotograaf. Niet volgens wat de boeken zeggen dat jouw rol is, maar wie jij zelf bent. Die bruiloft en die guitige hondensnoetjes gebeuren ook wel zonder jou, waar maak jij verschil? 
+
+#COMMENT#
+John:
+Geef je betekenis in de herinnering die een foto kan zijn?
+
+#COMMENT#
+Mark: 
+Ik moet hier nog even over nadenken denk ik.
+
+#COMMENT#
+John: 
+Doe jij dat maar. 
+
+#COMMENT#
+John:
+En nu naar huis want ik moet slapen. Jullie zijn allemaal vermoeiend genoeg, stelletje rotkinderen
+.
+
+#COMMENT#
+Mark lacht en gaat naar huis.
+---------------------------------
+#END#

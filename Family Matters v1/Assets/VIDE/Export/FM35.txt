@@ -1,0 +1,122 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mark zit boven op zijn telefoon te scrollen als hij door zijn moeder naar beneden wordt geroepen. Aan tafel zitten zijn ouders met een kopje thee.
+
+#COMMENT#
+Mark: 
+Hè pa, ben je er ook? Moest je niet werken?
+
+#COMMENT#
+John: 
+Nee, ik had een andere afspraak.
+
+#COMMENT#
+Yvonne: 
+Bram, kom je er ook bij zitten?
+
+#COMMENT#
+Bram schuift aan tafel.
+
+#COMMENT#
+Mark: 
+Zo, wat serieus.
+
+#COMMENT#
+John schraapt zijn keel.
+
+#COMMENT#
+John: 
+Ik ben bij de dokter geweest omdat ik zo’n buikpijn had, en het is geen buikgriepje. Ze hebben een scan gemaakt, en ik wacht de uitslag nu af.
+
+#COMMENT#
+Bram: 
+Wat betekent dat dan?
+
+#COMMENT#
+John: 
+Ze hebben een foto van mijn buik gemaakt en als die klaar is moet de dokter ernaar kijken. 
+
+#COMMENT#
+Mark: 
+Hebben ze meteen al een scan laten maken? Dat is snel. Dat ben ik niet gewend van onze dokter Vinter, die stuurt je altijd met een paracetamol naar huis om het af te wachten.
+
+#COMMENT#
+Yvonne: 
+Het is natuurlijk fijn dat ze voort maken, maar dat is meestal geen goed nieuws.
+
+#COMMENT#
+Bram lijkt te gaan huilen.
+
+#COMMENT#
+John: 
+Hè, er is nog niks aan de hand hè? Doe allemaal even rustig. 
+
+#COMMENT#
+Mark: 
+Dat weet je allemaal niet, misschien is er wel vanalles aan de hand!
+
+#COMMENT#
+
+John: 
+Dat klopt, ik weet niet of er niks aan de hand is, maar ik weet ook niet of er wel wat is. Ik weet wel dat het weinig zin heeft om je er druk over te maken. Ik wilde jullie op de hoogte stellen want eerlijkheid is belangrijk in ons gezin. 
+
+#COMMENT#
+John:
+Het zou stom zijn als ik, positief of negatief, een uitslag krijg, en dat jullie dan vragen ‘waarom heb je niet eerder wat gezegd?’
+
+#COMMENT#
+Mark: 
+Dat is ook zo, maar ik vind het toch een beetje spannend.
+
+#COMMENT#
+Bram: 
+Ik ook!
+
+#COMMENT#
+John: 
+Dat mag ook. Ik vind het natuurlijk ook een beetje spannend. Maar dat betekent niet dat ik bij de pakken neer ga zitten. Sterker nog, ik vind het een mooi excuus om iets leuks te gaan doen! Het leven is te kort om je druk te maken.
+
+#COMMENT#
+Yvonne: 
+Nou, ik ben blij dat je er zo licht in staat, maar ik houd mijn hart vast tot je een goede uitslag binnen hebt.
+
+#COMMENT#
+John: 
+Jullie zullen de eerste zijn die het horen. Nou, zullen we dan nu iets gaan doen? Pannenkoekenhuis, misschien even langs de kinderboerderij ernaast? Of zijn jullie daar te oud voor geworden?
+
+#COMMENT#
+Bram: 
+Ja! Nee! Leuk!
+
+#COMMENT#
+Mark: 
+Je bent nooit te oud om een geit te knuffelen.
+
+#COMMENT#
+Yvonne: 
+Ik had eigenlijk nog groenten voor het avondeten die op moeten, dat krijg ik nooit alleen op.
+
+#COMMENT#
+John: 
+Hoezo alleen? Je gaat toch gewoon mee? En die groenten geef je maar aan de geiten.
+
+#COMMENT#
+Yvonne: 
+Vooruit. Die charme van jou, raakt nooit helemaal uitgewerkt.
+---------------------------------
+#END#

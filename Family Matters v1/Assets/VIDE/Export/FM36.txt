@@ -1,0 +1,76 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mark zit op school in een les over je *branding* als artist zich ongemakkelijk te voelen omdat hij nog steeds niet helemaal weet wat hij wil. 
+
+#COMMENT#
+De docent merkt dit en vraagt klassikaal wat hem echt interesseert, wat Mark nou Mark maakt. Hoe behulpzaam de docent ook probeert te zijn, het heeft averechts effect en Mark slaat onzeker dicht. 
+
+#COMMENT#
+De docent probeert een andere route en vraagt hem recente foto’s te laten zien die hij heeft genomen. 
+
+#COMMENT#
+Mark sluit zijn laptop op de beamer aan en opent de fotomap. Op de foto’s zie je het bezoek aan de kinderboerderij en het museum, en van Balthazar bij Bram op schoot. 
+
+#COMMENT#
+De docent vraagt Mark meer over de foto’s met Balthazar te vertellen. Schoorvoetend vertelt Mark dat het foto’s zijn van de laatste momenten met Balthazar en de familie. 
+
+#COMMENT#
+Docent: 
+Opvallend..
+
+#COMMENT#
+Mark:
+Dat ie dood is of dat we hem op schoot hebben genomen?
+
+#COMMENT#
+Docent:
+Dat dit je beste foto’s zijn. Er spreekt een soort tederheid uit naar het onderwerp van je foto die ik bij de andere foto’s minder terugzie. De familiefoto’s hebben ook wel wat, maar bij deze foto kan ik de sfeer van het moment echt voelen
+
+#COMMENT#
+Marks telefoon gaat af, zijn moeder belt. De docent kijkt hem met opgetrokken wenkbrauw aan en Mark drukt de oproep snel weg.
+
+#COMMENT#
+Mark: 
+Sorry, vergeten op stil te zetten. Waar was u gebleven?
+
+#COMMENT#
+Docent: 
+Dat er zachtheid uit je fotos spreekt. 
+
+#COMMENT#
+Mark: 
+Dat komt omdat we het konijn hebben gewassen vantevoren, maar over het algemeen vind ik dode huisdieren niet perse zacht
+
+#COMMENT#
+Docent: 
+Nee, maar in jouw rol als fotograaf, het willen vastleggen om het niet te vergeten, spreek je een soort zorg uit. Net als dat je m eerst gewassen hebt. Goed, we moeten zo afsluiten. Ik ben benieuwd wat je afstudeerproject gaat worden!
+
+#COMMENT#
+Mark: 
+Nou, niet dit hoor!
+
+#COMMENT#
+Docent: 
+Jammer. Het was leuk geweest om het onderwerp eens uit een vrolijker hoek te zien in plaats van de horror fotografen die we af en toe hebben. Ook een vak, maar die ken ik onderhand wel.
+
+#COMMENT#
+Mark loopt de school uit en kijkt op zijn telefoon. Zijn moeder heeft een bericht gestuurd met de vraag zo snel mogelijk terug te bellen. 
+#COMMENT#
+Mark belt en krijgt zijn moeder op speaker in de auto. Ze vertelt dat zijn vader een kijkoperatie heeft gehad en in het ziekenhuis ligt en ze er nu met Bram heen gaat. Mark schrikt en gaat ook op pad naar het ziekenhuis.
+---------------------------------
+#END#

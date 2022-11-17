@@ -1,0 +1,42 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Na het eten gaat de familie nog een potje Triviant spelen. 
+
+#COMMENT#
+Oma weet zoals gewoonlijk alles, terwijl Bram liever taartjes stapelt en telkens ongemerkt partjes van zijn ouders pikt. De sfeer is warm en gezellig, terwijl buiten de sneeuw en wind koud om het huis razen. 
+
+#COMMENT#
+Wanneer ze klaar zijn met het spel drinken ze nog een kopje warme koffie of chocomel om zich voor te bereiden op de rit naar huis. Het is een mooi moment voor Mark om een paar Hallmark-waardige plaatjes te schieten. 
+
+#COMMENT#
+Bij het naar huis gaan krijgt ie van zijn oma nog een net iets te natte kus op zijn wang.
+
+#COMMENT#
+Oma:
+Toch maar luxe zo, met mijn mooie mannen - en schoondochter - kerst te kunnen vieren. Ik bof maar met jullie!
+
+#COMMENT#
+Mark:
+Wij met jou, oma!
+
+#COMMENT#
+Bram geeft haar nog zo’n dikke knuffel dat Mark zich zorgen maakt om oma’s oude ruggetje, maar het lijkt haar niet te deren. 
+#COMMENT#
+‘Rij veilig!’ roept ze nog, terwijl de auto het tuinpad af rijdt. Bram en Mark zijn als vanouds druk vanaf de achterbank aan het zwaaien. Sommige dingen veranderen nooit.
+---------------------------------
+#END#

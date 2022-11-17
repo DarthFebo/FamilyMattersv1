@@ -1,0 +1,118 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+Mark
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mark: 
+Kom Bram, we gaan er een mooi afscheid van maken. We begraven hem in zijn favoriete dekentje, in onze tuin.
+
+#COMMENT#
+Bram: 
+Goed idee! Dan ligt hij lekker zacht en is hij altijd dichtbij ons.
+
+#COMMENT#
+Mark:
+Ik denk niet dat dat uitmaakt, hij merkt er denk ik weinig van, maar het is een leuk idee.
+
+#COMMENT#
+Bram: 
+Het maakt mij wel uit, ik denk namelijk dat hij het wel merkt.
+
+#COMMENT#
+Mark: 
+Ok, sorry. Ik wist niet dat je er zo over dacht.
+
+#COMMENT#
+Bram: 
+Zullen we ook zijn favoriete knuffel pakken? Waar hij altijd mee worstelde?
+
+#COMMENT#
+Mark: 
+Je weet dat dat geen worstelen was hè?
+
+#COMMENT#
+Bram: 
+Ja, maar laten we dat maar niet tegen mama zeggen, anders is het ongemakkelijk.
+
+#COMMENT#
+Mark onderdrukt een lach.
+
+#COMMENT#
+Bram: 
+Wat moeten we nog meer pakken?
+
+#COMMENT#
+Mark: 
+Ik weet het niet, wat denk jij?
+
+#COMMENT#
+Bram: 
+Misschien moeten we zijn hok ook begraven
+
+#COMMENT#
+Mark: 
+Is dat niet een beetje zonde? Misschien kunnen er later nog andere konijnen gebruik van maken.
+
+#COMMENT#
+Bram: 
+Dat is wel waar. Maar wel zijn snacks dan, die zijn later anders toch beschimmeld.
+
+#COMMENT#
+Mark: 
+Goed, zijn dekentje, zijn snacks, en zijn knuffel. Ik denk dat we het zo hebben.
+
+#COMMENT#
+Bram: 
+Ja, zo is het goed.
+
+#COMMENT#
+Ze begraven Balthazar in de achtertuin, gewikkeld in zijn deken en vergezeld van zijn ‘worstel’knuffeltje en zijn wortelknabbels. 
+
+#COMMENT#
+Bram zingt een zelfverzonnen liedje wat hij vroeger voor Balthazar zong. Erna gaat Bram naar bed. Mark komt wat later nog even bij hem kijken. 
+
+#COMMENT#
+Mark: 
+Hè kerel, hoe is het?
+
+#COMMENT#
+Bram: 
+Het gaat wel.
+
+#COMMENT#
+Mark: 
+Mis je Balthazar?
+
+#COMMENT#
+Bram: 
+Ja, maar ik ben blij dat we goed voor hem hebben gezorgd. Ik denk dat hij tevreden is met zijn graf.
+
+#COMMENT#
+Mark: 
+Goed zo. Ik denk het ook. En nu hebben we een plek om hem te bezoeken als we even aan hem willen denken.
+
+#COMMENT#
+Bram: 
+Ik ga er morgen wat bloemetjes bij leggen. Wil jij daar dan een foto van maken?
+
+#COMMENT#
+Mark: 
+Da’s goed. Tot morgen dan.
+
+#COMMENT#
+Bram: 
+Tot morgen!
+---------------------------------
+#END#

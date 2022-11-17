@@ -1,0 +1,60 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Het nieuws van de bioptie komt sneller dan verwacht, en het is geen goed nieuws. 
+
+#COMMENT#
+Kanker blijkt overal uitgezaaid en er is medisch gezien niets meer voor John te doen, behalve het rekken van de laatste eindjes. 
+#COMMENT#
+Dit wil John niet. 
+
+#COMMENT#
+Hij besluit zijn laatste weken goed te gebruiken in plaats van zijn laatste maanden ziek van de medicijnen op bed te liggen. 
+#COMMENT#
+Samen met de familie plannen ze nog uitstapjes en kleine avonturen, die telkens kleiner worden. 
+
+#COMMENT#
+De tijd tussen de uitslag en het moment dat ze met zijn allen om John's bed staan had voor iedereen het liefst een eeuwigheid geduurd, maar vloog veel te snel voorbij.
+
+#COMMENT#
+Ze hebben geprobeerd nog zoveel mogelijk herinneringen te maken en te genieten van het mooie met elkaar, wetende dat deze laatste eindsprint nog zo belangrijk was voor iedereen die van John houdt. 
+
+#COMMENT#
+Hoewel de keuze van John, om de tijd niet te rekken met behandelingen en ziekenhuisbezoeken, niet iedereen makkelijk viel, zijn ze dankbaar hem tot het eind zoveel mogelijk mee te hebben mogen maken als John in plaats van een ziek ziekenhuis spook.
+
+#COMMENT#
+Na weken naar het eind toe geleefd te hebben komt het uitblazen van Johns laatste adem toch onverwacht, alsof het eigenlijk niet echt zou gebeuren. 
+
+#COMMENT#
+Alsof eigenlijk iemand ‘geintje!’ ging roepen. 
+
+#COMMENT#
+Mark staat naar de deur te kijken in de hoop dat degene die deze kutgrap gepland heeft zo de onthulling komt bieden. 
+
+#COMMENT#
+Maar er komt niemand. 
+
+#COMMENT#
+De mensen die er zijn, voelen niet echt. 
+
+#COMMENT#
+Het moment voelt surreëel. 
+
+#COMMENT#
+Het voelt alsof het licht de kamer verlaten heeft.
+---------------------------------
+#END#

@@ -1,0 +1,175 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+De uitvaartondernemer komt langs, Yvonne, Bram en Mark zitten aan tafel. De uitvaartondernemer stelt zich voor als Jess en condoleert de aanwezigen dan. Daarna neemt ze plaats aan tafel en legt een grote map voor zich.
+#COMMENT#
+Jess: 
+Ik kan me voorstellen dat er nu nogal veel op jullie af komt, dus we gaan er stapsgewijs doorheen. Er moet namelijk een en ander geregeld worden. 
+
+#COMMENT#
+Jess:
+Misschien weet je het antwoord op sommige vragen nog niet maar samen komen we er wel uit. 
+
+#COMMENT#
+De familie knikt
+
+#COMMENT#
+Jess: 
+We kunnen het zo gek maken als jullie willen maar John heeft een verzekering afgesloten die een redelijke basis dekt. 
+
+#COMMENT#
+Jess:
+Eigenlijk hoeven alleen de kist, de bloemen, de rouwkaarten, de muziek en de locatie uitgekozen te worden. En zijn outfit natuurlijk, en misschien of je wat te eten serveert. 
+
+#COMMENT#
+Jess:
+Er waren bij ons verder geen uitvaartwensen bekend, dus dat houdt in dat de nabestaanden dit mogen bepalen. 
+
+#COMMENT#
+Jess:
+In jullie geval is dat dus Mark.
+
+#COMMENT#
+Mark: 
+Ik? Hoezo niet ma? Hier ben ik toch te jong voor, joh!
+
+#COMMENT#
+Yvonne: 
+Je weet dat we gescheiden zijn, Mark. En je mag al jaren stemmen, dus wettelijk ben je oud genoeg. Sorry, ik snap dat het lastig is en ik wil je natuurlijk zo goed mogelijk helpen maar als volwassen nakomeling komt de eindverantwoordelijkheid bij jou.
+
+#COMMENT#
+Mark: 
+Hoezo heeft pa dit zelf niet geregeld? Heeft ie niet ergens een briefje achtergelaten ofzo? 
+
+#COMMENT#
+Yvonne: 
+Je weet dat je pa alleen maar in het moment wilde leven. Hij vond de tijd die hij nog met ons had te kostbaar om deze dingen te regelen. Ik heb op een gegeven moment wat folders gebracht maar ik weet niet of hij daar nog mee bezig is geweest.
+
+#COMMENT#
+Mark: 
+Maar wat als ik het verpest? Hoe voel ik me dan? Heeft ie daar over nagedacht?
+
+#COMMENT#
+Yvonne: 
+Geen keuze maken is ook een keuze, en hij heeft hem aan jou overgelaten. Ik denk dat hij alle vertrouwen in je heeft. 
+
+#COMMENT#
+Jess: 
+Nou, zullen we dan maar? *slaat de enorme map open met verschillende folders en flyers* Ik begin meestal met het uitzoeken van de kisten, en dan werken we het lijstje af.
+
+#COMMENT#
+Mark: 
+Wat een grote map..
+
+#COMMENT#
+Jess verwart Marks groeiende wanhopigheid met verraste verbazing en zegt vrolijk
+
+#COMMENT#
+Ja hè? Ik heb een flinke map met ideeën mee, soms lijk ik meer een weddingplanner dan een uitvaartondernemer haha. Maar er zijn altijd meer opties dan er in m’n map passen! Dus als je een goed idee hebt mag je het altijd zeggen en dan kijken we wat de mogelijkheden zijn.
+
+#COMMENT#
+Jess begint een verhaal over kisten en prijsklassen en slaat folders open, maar Mark weet niet wat hij ervan moet vinden. Onverschrokken gaat Jess verder in een verhaal over locatiezaken, rouwkaartpapier, bloemarrangementen, Mark dwaalt in gedachten af. 
+#COMMENT#
+Hij denkt aan de kerstvakantie en zijn vondsten op zolder. Kon hij maar een foto van dit moment maken om daar later rustig aan terug te denken. 
+
+#COMMENT#
+Jess is nog steeds bezig, iets over koffie en cake, het komt allemaal niet binnen. 
+
+#COMMENT#
+Jess: 
+Weet je al een beetje wat je wilt?
+
+#COMMENT#
+Mark: 
+Mag ik er ook een nachtje over denken?
+
+#COMMENT#
+Jess: 
+Natuurlijk! Dan kom ik morgen terug. Wil je dat ik je vader ophaal of houd je hem liever thuis?
+
+#COMMENT#
+Mark: 
+Kan dat dan?
+
+#COMMENT#
+Jess: 
+Ja hoor! We kunnen hem gewoon hier opbaren.
+
+#COMMENT#
+Mark: 
+Wat zeggen jullie?
+
+#COMMENT#
+Bram: 
+Ik wil nog niet dat papa gaat.
+
+#COMMENT#
+Yvonne: 
+Maar jullie kunnen hier niet alleen met papa blijven.
+
+#COMMENT#
+Mark: 
+Hoezo niet? Bram en ik zijn wel vaker “alleen” thuis geweest. Ben je bang dat ‘ie gaat spoken?
+
+#COMMENT#
+Yvonne: 
+Nee maar als jullie iets overkomt kan `ie niet bepaald naar het ziekenhuis rijden. En daarnaast wil ik jullie niet alleen laten. Ik kom logeren. Ik leg wel een matras bij Bram op de kamer. 
+
+#COMMENT#
+Bram: 
+Jeej! Een logeerpartijtje!
+
+#COMMENT#
+Mark: 
+Wordt het hier toch nog gezellig. Misschien kunnen jullie een dekenfort in de woonkamer opzetten.
+
+#COMMENT#
+Bram: 
+Jaa!
+
+#COMMENT#
+Yvonne: 
+Dat is me dan weer wat tè gezellig voor de gelegenheid. Oma komt straks nog langs en ik weet niet wat die daarvan zou vinden.
+
+#COMMENT#
+Jess: 
+Ik denk dat het voor mij tijd is om te gaan. 
+
+#COMMENT#
+Yvonne: 
+Sorry, wat denk je wel niet van ons. Een beetje flauw doen terwijl er boven..
+
+#COMMENT#
+Jess: 
+Mevrouw, iedereen rouwt op zijn eigen manier, en als u wil weten wat ik denk, dan denk ik dat humor heel gezond is. En u zou de eerste niet zijn die op een uitvaart zit te schateren.
+
+#COMMENT#
+Yvonne: 
+Nou, dat zou ik dan ook weer niet doen.
+
+#COMMENT#
+Jess: 
+Nogmaals, iedereen rouwt op zijn eigen manier. Ik ben niet degene om te zeggen welke manier fout is, want die is er denk ik niet
+
+#COMMENT#
+Yvonne en Mark glimlachen dankbaar naar Jess.
+
+#COMMENT#
+Jess: 
+Nou Mark, ik zal wat folders voor je achterlaten, denk er rustig over na en dan komen we er later op terug.
+---------------------------------
+#END#

@@ -1,0 +1,143 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+Bram
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mark: 
+Nou Bram, welke afscheidsscène wil je nabouwen?
+
+#COMMENT#
+Bram: 
+Misschien een kerstfilm, omdat het net kerst geweest is.
+
+#COMMENT#
+Mark: 
+Vind je kerst bij Balthazar passen? Zo lekker zoet en romantisch?
+
+#COMMENT#
+Bram: 
+Nee, Balthazar is hartstikke ondeugend.
+
+#COMMENT#
+Mark: 
+Wat dacht je van the Grinch? 
+
+#COMMENT#
+Bram:
+Ja! Die is ook ondeugend! We kunnen zijn grot namaken en hem een kerstpak geven! 
+
+#COMMENT#
+Mark en Bram gaan aan de slag, en knutselen de set na. Daarna wandelen ze naar het bos en zetten ze hem naast het pad.
+
+#COMMENT#
+Bram: 
+Zo! Nu kan iedereen nog even naar Balthazar zwaaien!
+
+#COMMENT#
+Mark: 
+Precies. Wat een stoer idee van je, Brammie.
+
+#COMMENT#
+Bram: 
+‘Brammie’ is niet stoer. Noem me dan Bram.
+
+#COMMENT#
+Ze lopen terug naar huis en komen onderweg een dame met hond tegen. Bram aait de hond terwijl Mark een praatje met de dame maakt. Daarna gaan ze naar huis en Bram gaat naar bed. 
+
+#COMMENT#
+Niet veel later wordt er op de deur geklopt door Handhaving. Mark doet open terwijl Yvonne op een afstand meeluistert en Handhaving vraagt of de scène in het bos van hun is. Mark bevestigt. 
+#COMMENT#
+Handhaving geeft aan dat er iemand heeft geklaagd omdat het als aanstootgevend werd ervaren en ze de scène hebben verwijderd. Mark legt uit wat de situatie was en krijgt een waarschuwing. 
+
+#COMMENT#
+Na het sluiten van de deur gaat hij naar boven, waar Bram in bed ligt te huilen.
+
+#COMMENT#
+
+Bram: 
+Ik hoorde de politie. Hebben ze Balthazar weggehaald?
+
+#COMMENT#
+Mark: 
+Helaas wel. Sommige mensen vonden het een beetje schrikken denk ik.
+
+#COMMENT#
+Bram: 
+Maar ik vond het mooi!
+
+#COMMENT#
+Yvonne komt binnen.
+
+#COMMENT#
+Yvonne: 
+Hé lieverd, wat rot zeg.
+
+#COMMENT#
+Bram: 
+Wie vindt onze scènes nou stom? 
+
+#COMMENT#
+Yvonne: 
+Mensen vinden misschien de scène niet stom, maar ze vinden het niet leuk ineens met dode dingen geconfronteerd te worden. 
+
+#COMMENT#
+Bram: 
+Hoezo niet?
+
+#COMMENT#
+Yvonne: 
+Dat doen we gewoon niet zo. We hebben vaste manieren waarop we dingen doen.
+
+#COMMENT#
+Bram: 
+Zoals de doos en het begraven?
+
+#COMMENT#
+Yvonne: 
+Bijvoorbeeld. Bij mensen is dat dan meestal een kist.
+
+#COMMENT#
+Bram: 
+Maar wat als iemand wat anders wilt?
+
+#COMMENT#
+Yvonne: 
+Dan moet iemand dat vertellen. Er zijn namelijk ook andere manieren dan in een kist begraven. 
+
+#COMMENT#
+Bram: 
+Wat dan allemaal?
+
+#COMMENT#
+Yvonne: 
+Ach kind, zoveel, dat weet ik allemaal niet.
+
+#COMMENT#
+Bram: 
+Ik wil opgezet worden. Dan kan ik altijd bij jullie zijn.
+
+#COMMENT#
+Yvonne: 
+Ik denk niet dat papa of ik daar heel blij van worden. Voor ons moet het ook te hendelen zijn!
+
+#COMMENT#
+Bram: 
+Ohja. Dan moet ik er nog even over nadenken.
+
+#COMMENT#
+Yvonne: 
+Doe jij dat maar. Maar het is nu tijd om naar bed te gaan.
+---------------------------------
+#END#

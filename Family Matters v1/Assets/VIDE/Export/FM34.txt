@@ -1,0 +1,261 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+De hele familie gaat een dagje naar het museum. Bram heeft een speurtocht gekregen en is lekker aan het rondrennen. Oma schuifelt met de ouders door de zalen. Mark is met Matthijs een andere kant opgelopen. 
+#COMMENT#
+Mark: 
+Wat een fancy outfit!
+
+#COMMENT#
+Matthijs: 
+Dankjewel! Speciaal op vandaag gekozen.
+
+#COMMENT#
+Mark: 
+Jij lijkt af en toe een heel ander mens. Vergeleken met kerst of op je werk ben je bijna onherkenbaar.
+
+#COMMENT#
+Matthijs: 
+Tja, kleren maken de mens, en de situatie maakt de kleren. Ik pas me gewoon aan aan waar ik ben.
+
+#COMMENT#
+Mark: 
+Wat is jouw eigen stijl eigenlijk?
+
+#COMMENT#
+
+Matthijs: 
+Ja dit dus. Mijn stijl is kameleon zijn. Opvallend onopvallend. Een look voor elk moment. 
+
+#COMMENT#
+Mark: 
+Opvallend onopvallend?
+
+#COMMENT#
+Matthijs: 
+Als je altijd zorgt dat je gewoon volledig bij de stijl van de omgeving past, val je niet op in de omgeving, maar zie je er wel goed uit als iemand echt naar jou kijkt.
+
+#COMMENT#
+Mark: 
+Word je er niet ongelukkig van om telkens een rol te spelen?
+
+
+#COMMENT#
+Matthijs: 
+Nou, het is de rol die ik ben, dus nee. Als je bent zoals ik wil je niet teveel opvallen maar ook niet buiten de boot vallen. Nu is er meer vrijheid dan vroeger, dus de stijl is vrijer dan vroeger, maar ik niet perse. 
+
+#COMMENT#
+Matthijs:
+Ik ben op deze manier gegroeid dus haal er nu voldoening uit, waar het vroeger een worsteling was. Toen wilde ik altijd zijn zoals je vader, schaamteloos zichzelf. Gewoon dragen waar hij zin in had, ook al zag ie er soms uit als een sloeber, maar tenminste zorgeloos. 
+
+#COMMENT#
+Matthijs:
+Gelukkig gaat ie tegenwoordig iets meer met de mode mee, je moet nog wel een beetje leuk voor de dag komen vind ik, maar hij blijft altijd zijn ‘laat mij maar lekker dit doen’ vibe houden.
+
+#COMMENT#
+Mark: 
+Ik weet niet of zorgeloos het juiste woord is. Hij heeft het best wel moeilijk gehad met zichzelf zijn denk ik. Ik weet niet of hij het nu wel altijd is. Thuis heeft ie allemaal stapeltjes met kleren en spullen van vroeger. 
+
+#COMMENT#
+Mark:
+We mochten er niet mee spelen, want dat paste volgens hem nu niet meer. Ik weet niet of hij bedoelt of het wel verantwoord was of omdat ie niet wilde dat zijn kinderen net zulke nerds werden als hij. 
+
+#COMMENT#
+Mark:
+Ma mocht het ook nooit weggooien, want het waren nog goede spullen en de kleren zaten nog lekker, zei ie altijd. Niet dat ie ze nog gebruikte of droeg ofzo. Het staat er allemaal nu nog steeds.
+
+#COMMENT#
+Matthijs: 
+Laat Yvonne Kondo het maar niet horen.
+
+#COMMENT#
+Mark: 
+Haha ja gelukkig heeft ma die fase pas na de scheiding gehad. Pa was denk ik gek geworden als ze die troep had weggegooid.
+
+#COMMENT#
+Matthijs: 
+Het klinkt niet als troep als je vader er zoveel waarde aan hecht.
+
+#COMMENT#
+Mark: 
+Ja, ik weet dus ook niet waarom hij het dan wel bewaart maar er niets meer mee doet.
+
+#COMMENT#
+Matthijs: 
+Misschien zijn het sleutels naar herinneringen die hij wil bewaren, maar niet altijd durft te bezoeken.
+
+#COMMENT#
+Mark: 
+Wat diep joh. Ik wist niet dat deze stijl niet alleen je kleren maar ook je gesprek vormde
+
+#COMMENT#
+Matthijs: 
+Hahaha, ja, maar jij begon geloof ik, met je psychologenanalyse van mn look!
+
+#COMMENT#
+Mark: 
+Sorry hoor!
+
+#COMMENT#
+Matthijs: 
+Nee joh gek, het is juist goed om te praten over wat ons bezighoudt en waarom we dingen doen. Anders vergeten we het ons zelf misschien af te vragen, en leven we op de automatische piloot. 
+
+#COMMENT#
+Mark: 
+Dank u, Socrates, ik zal het in gedachten houden.
+
+#COMMENT#
+Matthijs:
+Snotneus. Kom, we gaan de rest zoeken en koffie drinken. Ik heb onze moeders net die hal in zien gaan, maar je vader en Bram ben ik kwijt.
+
+#COMMENT#
+Mark: 
+Ik zag pa naar de wc gaan maar da’s al even geleden. Waar Bram is weet ik niet. 
+
+
+#COMMENT#
+Matthijs gaat de dames halen. Op dat moment komt John van de wc. 
+
+#COMMENT#
+Mark: 
+Zo, als je het over de duivel hebt. Dat duurde lang!
+
+#COMMENT#
+John: 
+Ik heb last van m’n maag joh.
+
+#COMMENT#
+Mark: 
+Alweer? Laatst ook al toch?
+
+#COMMENT#
+John: 
+Eigenlijk nog steeds. Misschien een buikgriep ofzo, maar ik heb er nooit eerder zo’n last van gehad. Ik zal er eens mee naar de dokter gaan.
+
+#COMMENT#
+Mark: 
+Nou, dan ben je wel ècht bijna dood. De laatste keer dat jij naar de huisarts bent gegaan kan ik me niet eens herinneren.
+
+#COMMENT#
+John: 
+Dat valt wel mee hoor. Ik ga gewoon altijd als jij er niet bent, dan lijk ik extra stoer.
+
+#COMMENT#
+Mark: 
+Ohja. Jij bent natuurlijk ook zo’n stoere man. Very much macho.
+
+#COMMENT#
+John: 
+Daar doe ik t voor *knipoog*. 
+He, daar is de rest. Zullen we zo even koffie drinken ofzo?
+
+#COMMENT#
+Matthijs: 
+Precies mijn idee! We moeten alleen Bram nog opsporen.
+
+#COMMENT#
+Bram: 
+Ik ben hier! Ik heb een geheime tunnel gevonden, kom mee!
+
+#COMMENT#
+Mark: 
+We willen eigenlijk even wat gaan drinken, ga je mee Bram?
+
+#COMMENT#
+Bram: 
+Nee, jullie moeten eerst met mij mee. Snel!
+
+#COMMENT#
+Matthijs: 
+Nou vooruit, laat maar zien!
+
+#COMMENT#
+Oma: 
+Ik ga alvast een drankje halen en een tafel voor ons zoeken.
+
+#COMMENT#
+Bram leidt de rest naar een soort kinderspeeltunnel
+.
+
+#COMMENT#
+John: 
+Ik weet niet of we daar in passen, hoor!
+
+#COMMENT#
+Bram: 
+Jawel! Kom nou, het is belangrijk!
+
+#COMMENT#
+Iedereen kruipt dan toch maar de tunnel in, benieuwd naar wat Bram wil laten zien
+..
+#COMMENT#
+Bram kruipt achteraan.
+
+#COMMENT#
+Bram: 
+Zien jullie waar deze tunnel op lijkt?
+
+#COMMENT#
+Vragende blikken van de familie.
+
+#COMMENT#
+Matthijs: 
+Een hol van een konijn ofzo?
+
+#COMMENT#
+John: 
+Een tuinslang?
+
+#COMMENT#
+Yvonne: 
+Mark’s kamer na een week vakantie?
+
+#COMMENT#
+Bram: 
+Ik zal jullie een hint geven.
+
+#COMMENT#
+*Praaaap!*
+
+Hij laat een harde wind!
+#COMMENT#
+De familie slaakt kreten van afschuw en probeert over elkaar de stank uit te klimmen. Wanneer ze er uit zijn staat Bram zo hard te lachen dat ze niet anders kunnen dan meedoen. Nog steeds gniffelend komen ze bij oma aan in het museumrestaurant.
+
+#COMMENT#
+Oma: 
+Wat hebben jullie schik?
+
+#COMMENT#
+Mark: 
+Bram liet een scheet in de darm.
+
+#COMMENT#
+Oma: 
+Pardon?
+
+#COMMENT#
+Matthijs: 
+Onze prankster hier nam ons mee naar zo’n kindertunnel en liet een scheet.
+
+#COMMENT#
+Oma schiet in de lach.
+
+#COMMENT#
+Oma: 
+Dat soort geintjes haalde je opa ook altijd uit. Even de deken over je arme oma trekken voordat er zo’n bruine bonen toeter werd gelost. Ik kon er niet zo van genieten, maar je opa vond had zo’n lol om zichzelf dat ik er toch om moest lachen. Die poep en pies grapjes blijven blijkbaar lollig.
+---------------------------------
+#END#

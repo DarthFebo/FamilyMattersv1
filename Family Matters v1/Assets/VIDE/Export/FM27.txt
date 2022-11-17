@@ -1,0 +1,64 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oma: 
+Wat krijgen we nou?
+
+#COMMENT#
+Yvonne: 
+Is dat wat ik denk dat het is?
+
+#COMMENT#
+Matthijs: 
+Wat goed zeg! Het ruikt precies hetzelfde.
+
+#COMMENT#
+Oma blijft een beetje stil terwijl er wordt opgeschept.
+
+#COMMENT#
+John: 
+Nou ma, wat vind je? Het leek me wel weer eens tijd.
+
+#COMMENT#
+Oma: 
+Ik vind het..
+
+#COMMENT#
+Oma:
+Uhhmm..
+
+#COMMENT#
+Oma:
+prachtig! 
+
+#COMMENT#
+Oma:
+Het is al zo lang dat ik hier aan dacht. (tegen haar kleinzoons) Wisten jullie dat opa dit altijd voor ons maakte op kerstavond? 
+
+#COMMENT#
+Oma:
+Hij had daarna zoveel aardappels over, die kon hij alleen per kilo krijgen, dat ik de dag erna altijd gratin maakte.
+
+#COMMENT#
+Bram: 
+Mis je de gratin dan niet, oma?
+
+#COMMENT#
+Oma: 
+Nee hoor. Ik mis je opa wel. Maar met z’n knollenpot is het net of hij er een beetje bij is. 
+---------------------------------
+#END#

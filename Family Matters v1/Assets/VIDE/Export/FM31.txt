@@ -1,0 +1,75 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+Yvonne
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mark: 
+Ach, mama heeft waarschijnlijk gelijk. Het is ook wel zo makkelijk. Ik zal alleen even een andere doos zoeken.
+
+#COMMENT#
+Bram: 
+Maar Mark! Dat is zo ongezellig! En eenzaam!
+
+#COMMENT#
+Mark: 
+Ik denk niet dat ie dat merkt, Bram, hij is toch al dood.
+
+#COMMENT#
+Bram: 
+Maar misschien is ie er nog wel een beetje!
+
+#COMMENT#
+Mark wil nog wat zeggen maar zijn moeder gebaart dat het even goed is zo. 
+
+#COMMENT#
+Na het eten begraven ze Balthazar in een doos in de achtertuin. Bram staat dikke, stille tranen te huilen. Hij gaat vlak na het begraven naar bed. 
+
+#COMMENT#
+Mark kijkt door wat foto’s die hij had verzameld. Dan besluit hij bij Bram te kijken, en ziet dat hij vanuit zijn raam naar de tuin zit/ligt te staren. 
+
+#COMMENT#
+
+Mark: 
+Gaat het?
+
+#COMMENT#
+Bram: 
+*zucht* ik ben gewoon verdrietig.
+
+#COMMENT#
+Mark: 
+Dat snap ik. Maar alles gaat uiteindelijk dood.
+
+#COMMENT#
+Bram: 
+Dat weet ik. Maar toen ik Balthazar zo eenzaam in die witte kale doos lag liggen, was het net of het Balthazar niet meer was, maar een ander dood konijn ofzo, of een mislukte knuffel. 
+
+#COMMENT#
+Bram:
+Ik blijf het maar zien. Ik mis mijn Balthazar, ik wil niet aan die koude knuffel denken. 
+
+#COMMENT#
+Mark: 
+Ah nee, arme vent. Weet je wat, ik zet een kopje thee voor ons en dan pak ik de foto’s weer. Dan kunnen we nog even denken aan hoe Balthazar was.
+
+#COMMENT#
+Mark gaat thee zetten, pakt het dekentje van Balthazar en komt met de thee, het dekentje en de foto’s bij Bram zitten. Hij trekt z'n broertje tegen zich aan en pakt de foto’s erbij. 
+
+#COMMENT#
+Samen halen ze herinneringen op tot Bram op een gegeven moment tegen zijn grote broer aan in slaap is gevallen, het dekentje van Balthazar in zijn hand geklemd. Mark staat voorzichtig op, zet een foto van Balthazar op het nachtkastje, aait zijn broertje over de bol en gaat naar zijn eigen kamer. 
+#COMMENT#
+Hij bergt de foto’s terug in zijn kast. Hij staart uit het raam, bedenkt zich dan, pakt een van de foto’s weer uit de kast en zet die op zijn bureau. Tevreden gaat hij in bed liggen, kijkt nog even naar de foto van zijn broertje en balthazar en klikt zn lamp uit.
+---------------------------------
+#END#

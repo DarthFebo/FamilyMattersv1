@@ -1,0 +1,185 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+De volgende dag krijgt Mark een stuk leuker bericht wanneer hij op school zit; zijn vader is weer thuis. 
+#COMMENT#
+Mark besluit Bram op te halen van school als deze uit is, en samen gaan ze naar de supermarkt.
+
+#COMMENT#
+Mark: 
+Wat wil je eten vanavond? Je mag alles kiezen. Alles.
+
+#COMMENT#
+Bram’s ogen worden groot als schoteltjes.
+
+#COMMENT#
+Bram: 
+Mogen we dan wentelteefjes? Met ijs?
+
+#COMMENT#
+Mark schiet in de lach.
+
+#COMMENT#
+Mark: 
+Da’s lang geleden. Dat maakte papa vroeger wel eens als lunch.
+
+
+#COMMENT#
+Bram: 
+Ik weet nog hoe je het moet maken! Met melk en ei en kaneel en brood en suiker.
+
+#COMMENT#
+Mark: 
+Dat heb je goed onthouden.
+
+#COMMENT#
+Bram: 
+Mag ik het dan maken?
+
+#COMMENT#
+Mark: 
+Als ik dan mag helpen met bakken. Anders is het net of ik jou aan t werk heb gezet.
+
+#COMMENT#
+Bram: 
+Maar je kan toch ook afwassen!
+
+#COMMENT#
+Mark schiet in de lach
+.
+
+#COMMENT#
+Mark: 
+Ja, me hoela, jij hebt het mooi bedacht. Kom, samen koken, samen afwassen.
+
+#COMMENT#
+Bram: 
+Ok, ok!
+
+#COMMENT#
+Na de boodschappen komen ze bij John thuis die vrolijk op de bank zit.
+
+#COMMENT#
+John: 
+Zo, hallo, hoe is het nou?
+
+#COMMENT#
+Mark: 
+Ja, hoi, hoe is het nou met jou?
+
+#COMMENT#
+John: 
+Ach prima joh. Ze zeiden dat de operatie goed ging en ze hopen dat de bioptie verder ook goed is.
+
+#COMMENT#
+Mark: 
+Hopen?
+
+#COMMENT#
+John:
+Ja, zal wel best zijn dan. Ach, mooi excuus om op de bank te liggen en te netflixen, toch?
+
+#COMMENT#
+Mark: 
+Ja, als je het zo bekijkt.
+
+#COMMENT#
+John: 
+Bram, hoe is het met jou?
+
+#COMMENT#
+Bram: 
+Goed! We hebben boodschappen gedaan voor het eten!
+
+#COMMENT#
+John: 
+Gaan we geen Chinees eten dan?
+
+#COMMENT#
+Bram: 
+Neeee! Wij gaan koken!
+
+#COMMENT#
+John: 
+Nou, als dat maar goed gaat
+
+#COMMENT#
+Bram steekt zijn tong uit.
+
+#COMMENT#
+Het is nog te vroeg om te eten dus besluiten ze ouderwets gezellig een spelletje te doen. Ze spelen Set, een oude favoriet van John, dat draait om reactiesnelheid. 
+
+#COMMENT#
+De pijnstillers van John lijken toch nog een beetje te zijn blijven hangen want de oude kampioen heeft nu moeite Bram en Mark bij te houden, tot groot plezier van Bram. Na een paar potjes beginnen de magen te rommelen en Bram springt met een vrolijke ‘ik begin vast!’ op naar de keuken. 
+
+#COMMENT#
+Wanneer het mixen klaar is en het tijd is om te bakken komt Mark helpen. Als het eenmaal klaar is zetten ze de stapel met gepaste trots op tafel, met de speciaal gekochte maple syrup en de bak slagroomijs om het af te maken. 
+
+#COMMENT#
+Hongerig storten ze zich op het feestmaal, maar na een paar keer kauwen begint John als eerst te hoesten. Mark spuugt zijn hap uit. Bram doet een poging door te kauwen maar spuugt zijn hap ook uit.
+
+#COMMENT#
+John: 
+Wat is dit nou?
+
+#COMMENT#
+Mark: 
+Gatver! Waren de eieren niet goed ofzo?
+
+#COMMENT#
+Bram: 
+Huh? We hebben ze net gekocht!
+
+#COMMENT#
+John: 
+Zo smaken rotte eieren ook niet. Wacht, ik loop mee.
+
+#COMMENT#
+Bram en John lopen naar de keuken en komen even later terug, John schaterend van de lach en Bram beteuterd.
+
+#COMMENT#
+John: 
+Hij heeft nootmuskaat gepakt!
+
+#COMMENT#
+Bram: 
+Ze zaten in hetzelfde potje!
+
+#COMMENT#
+John: 
+Ja dat klopt, ze leken wel op elkaar. Nou, les geleerd, altijd proeven tijdens het koken!
+Toch maar Chinees dan?
+
+#COMMENT#
+Mark: 
+Dat moet dan maar.
+
+#COMMENT#
+Bram kijkt nog een tijdje beteuterd maar bij de belofte aan gebakken banaan lichten zijn ogen toch op.
+#COMMENT#
+Nadat ze Chinees hebben besteld en gegeten èn nog een plekje hebben gevonden voor het slagroomijs, dat gelukkig geen slachtoffer is geworden van het nootmuskaatincident, kijken ze nog een film op de bank. 
+
+#COMMENT#
+Mark denkt aan toen hij jonger was, en hij met zijn vader horrorfilms keek. Nu komt het eigenlijk zelden voor dat ze zo film kijken. ‘Toch wel gezellig,’ bedenkt hij zich. ‘Zouden we vaker moeten doen.’ 
+
+#COMMENT#
+Als de film is afgelopen drinken ze, volledig in nostalgie, nog een beker chocomel en gaan naar bed. 
+
+#COMMENT#
+Het is een mooie dag geweest.
+---------------------------------
+#END#

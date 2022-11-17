@@ -1,0 +1,180 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Het is een koude maar zonnige morgen tijdens de kerstvakantie wanneer Bram zijn konijn wil voeren. Tot zijn schrik vindt hij Balthazar dood in hok. Hij haalt zijn moeder en Mark. 
+
+#COMMENT#
+Bram: 
+Hij is dood!
+
+#COMMENT#
+Yvonne: 
+Ohnee! Wat sneu!
+
+#COMMENT#
+Mark: 
+Kut! Balthazar!
+
+#COMMENT#
+Bram: 
+Ja! Kut!
+
+#COMMENT#
+Yvonne: 
+Hé hé heren, dat wil ik niet horen.
+
+#COMMENT#
+Mark: 
+Sorry ma, we hebben m al zo lang, ik vind het gewoon klote. Wat moet ik dan zeggen, ‘ach wat jammer?’
+
+#COMMENT#
+Yvonne: 
+Dat snap ik wel. Maar ik wil niet dat Bram denkt dat dit normale taal is.
+
+#COMMENT#
+Mark: 
+Bram, je weet dat je die woorden die ik net zei niet zomaar mag zeggen, toch?
+
+#COMMENT#
+Bram: 
+Ja Mark
+
+#COMMENT#
+Yvonne:
+en mama
+
+#COMMENT#
+Bram: 
+en mama
+
+#COMMENT#
+Mark: 
+Behalve als er iemand dood is. Of je je teen stoot. *Knipoog naar Bram
+
+#COMMENT#
+Yvonne: 
+*zucht* Ik krijg wat van jullie af en toe.
+
+#COMMENT#
+Yvonne: 
+Nou, ik zal maar even een doos pakken. Mark, pak jij een schop uit de schuur?
+
+#COMMENT#
+Bram: 
+Mogen we hem niet nog even knuffelen?
+
+#COMMENT#
+Yvonne: 
+Nee Bram, da’s vies.
+
+#COMMENT#
+Bram: 
+Maar we kunnen hem toch wassen?
+
+#COMMENT#
+Mark: 
+Ja ma, dat moet toch kunnen?
+
+#COMMENT#
+Yvonne: 
+Maar straks heeft ie allemaal beestjes en vieze insecten enzo!
+
+#COMMENT#
+Mark: 
+In het midden van de winter?
+
+#COMMENT#
+Yvonne: 
+… 
+
+#COMMENT#
+Yvonne:
+Nou goed. Als jullie hem maar buiten wassen. Pak maar een emmer uit de schuur.
+
+#COMMENT#
+Mark en Bram wassen het konijn voorzichtig en liefdevol buiten.  
+
+#COMMENT#
+Wanneer het konijn schoon en droog is staat Yvonne schoorvoetend toe dat Balthazar mee naar binnen wordt genomen. Bram pakt Balthazars favoriete dekentje en legt hem op schoot, terwijl hij hem aait. Bram kijkt tv en praat tegen het konijn. 
+
+#COMMENT#
+Mark bedenkt zich iets en loopt naar zijn kamer. Daar pakt hij wat fotomapjes uit een la en zoekt er doorheen tot hij een paar leuke foto’s heeft gevonden. 
+
+#COMMENT#
+Foto’s van Balthazar op schoot bij de familie, Balthazar met een konijnenknuffel, Balthazar in kostuums in nagemaakte mini-tv-settings die Bram en Mark weleens samen knutselden. 
+
+#COMMENT#
+Hij neemt de foto’s mee naar beneden en laat ze aan zijn broertje en moeder zien. Er worden leuke herinneringen opgehaald.
+
+#COMMENT#
+Yvonne: 
+Ik ben blij dat jullie me hebben overgehaald om nog even met Balthazar te zitten. Het was fijn om erbij stil te staan hoeveel lol we met onze lieve Balthazar hebben gehad. 
+
+#COMMENT#
+Yvonne:
+Ik was alweer vergeten dat jullie hem altijd in die kostuumpjes wurmden om die filmsets na te maken. Arm konijn.
+
+#COMMENT#
+Bram: 
+Hij vond t leuk!
+
+#COMMENT#
+Yvonne: 
+Ja vast. Zullen we hem na het avondeten in de achtertuin begraven? Ik heb de doos van mijn winterlaarzen bewaard, daar past hij mooi in.
+
+#COMMENT#
+Mark: 
+Die laarzen van bont? Is dat niet cru?
+
+#COMMENT#
+Bram: 
+Nee! Niet de bontdoos!
+
+#COMMENT#
+Yvonne: 
+*zucht geërgerd* fijn, Mark. Wat dan?
+
+#COMMENT#
+Mark: 
+Misschien wat spulletjes verzamelen en hem daarmee in zijn dekentje begraven ofzo? Da’s al wat ‘persoonlijker’ denk ik.
+
+#COMMENT#
+Bram: 
+Misschien kunnen we nog zo’n scène bouwen als vroeger! 
+
+#COMMENT#
+Yvonne: 
+En waar wil je die dan laten?
+
+#COMMENT#
+Bram: 
+In het bos of op de hei ofzo, dan kan iedereen Balthazar nog even zien als ze er langs lopen.
+
+
+#COMMENT#
+Yvonne: 
+Dat lijkt me een slecht plan Bram. Laten we het makkelijk houden en hem gewoon in een doos doen en hem in de achtertuin begraven.
+
+#COMMENT#
+Mark: 
+Lekker kil voor ‘onze lieve balthazar’
+
+#COMMENT#
+Yvonne: 
+Weet je, Mark, regel jij het anders maar. Als je commentaar kan hebben, kan je het ook regelen.
+---------------------------------
+#END#

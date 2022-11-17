@@ -7,7 +7,23 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
 
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mark neemt nog wat foto’s en dan is de tijd aangebroken John naar het graf te brengen. Mark neemt foto’s van de stoet terwijl Bram de bloemen draagt.
 
+#COMMENT#
+Bij het graf aangekomen legt Bram de bloemen neer en wordt John in het graf geplaatst. De familie blijft bij het graf staan terwijl de bezoekers langskomen. 
+
+#COMMENT#
+Wanneer de laatste langs is geweest en nog vriendelijk heeft geknikt, blijft het een tijdje stil. 
+
+#COMMENT#
+De familie kijkt elkaar aan en knikt, het is over. Ze gaan naar huis, maar denken aan John die achterblijft, in de stilte die ze achterlaten.
 ---------------------------------
 #END#

@@ -7,7 +7,23 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
+Matthijs
+#ISPLAYER#
+False
+---
+#COMMENT#
+De jaren 80 hit Tainted Love van Soft Cell begint te spelen terwijl de gordijnen openschuiven. 
 
+#COMMENT#
+Mark kan de verstoorde, wat geïrriteerde blik van zijn oma niet ontsnappen. Dit valt duidelijk niet  onder wat zij ‘gepaste begrafenismuziek’ vindt vallen. Verontschuldigend wijst hij naar Matthijs. 
 
+#COMMENT#
+Dan ziet hij dat Matthijs niet op hun let, maar een knipoog aan zijn moeder geeft. Mark kijkt naar zijn moeder en ziet haar vertederd een traan wegdeppen. 
+
+#COMMENT#
+Ze leunt naar Mark en fluistert in zijn oor dat dit nummer aanstond op de avond dat zij John ontmoette, toen die met Matthijs aan het stappen was. Het was misschien toch niet zo’n slechte zet om Matthijs de muziek te laten kiezen.
 ---------------------------------
 #END#

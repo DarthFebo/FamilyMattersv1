@@ -7,7 +7,26 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
+Kist
+#ISPLAYER#
+False
+---
+#COMMENT#
+Wanneer de kist zichtbaar wordt bekruipt Mark een ongemakkelijk gevoel. Bijna een out of body experience, zo te zeggen. Het lijkt alsof hij naar een film zit te kijken. 
 
+#COMMENT#
+Daar zit hij dan, bij de begrafenis van zijn vader naar de kist te kijken. Hoe symbolisch 6 planken kunnen zijn. 
 
+#COMMENT#
+Als hij naar zijn broertje kijkt, lijkt die in een zelfde soort staat. Met een star gezicht kijkt Bram naar de kist, alsof hij naar het verschrikkelijkste toneelstuk ooit zit te kijken. 
+
+#COMMENT#
+De rest van de famile lijkt nergens last van te hebben. Zij hebben dit allemaal vaker meegemaakt, zij wisten wat ze konden verwachten. 
+
+#COMMENT#
+Mark wist het ook wel, maar het is raar om dit zo in het echt te zien.
 ---------------------------------
 #END#

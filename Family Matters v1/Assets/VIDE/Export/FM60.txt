@@ -7,7 +7,20 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
+Karton
+#ISPLAYER#
+False
+---
+#COMMENT#
+Wanneer de kartonnen kist volledig zichtbaar is, kijken oma en matthijs verschrikt en beledigd. ‘Dit is toch geen gezicht’ sist oma tegen niemand specifiek. Matthijs zegt niks, maar zijn gezicht spreekt boekdelen. 
 
+#COMMENT#
+Van achter zich kan Mark meer afkeurend gemompel horen, maar dat maakt hem niet zoveel uit. 
 
+#COMMENT#
+Hij weet dat zijn vader het waarschijnlijk belangrijker had gevonden beter in de aarde te liggen dan er nu beter bij te liggen, maar het raakt hem dat zijn familie echt gekwetst lijkt.
 ---------------------------------
 #END#

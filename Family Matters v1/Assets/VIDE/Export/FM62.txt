@@ -7,7 +7,20 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
+Mand
+#ISPLAYER#
+False
+---
+#COMMENT#
+Wanneer de mand zichtbaar wordt, onderdrukt oma een kreet van afschuw en verbazing. Matthijs fluistert iets in haar oor en haar uitdrukking verzacht iets, maar Mark kan moeilijk van haar gezicht wegkijken. 
 
+#COMMENT#
+Dan voelt hij zijn moeder, voorzichtig over Brams hoofd, op zijn schouder tikken. Hij kijkt om, nu zelf naar de mand, en hij verzacht iets. 
 
+#COMMENT#
+Daar ligt zijn vader, de hippie avonturier, in zijn mand. Zo zou hij het toch wel gewild hebben? Vast wel. Zijn moeder glimlacht nog eens naar hem.
 ---------------------------------
 #END#

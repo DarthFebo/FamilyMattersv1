@@ -7,7 +7,24 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
+Kloffie
+#ISPLAYER#
+False
+---
+#COMMENT#
+Hoewel het gek is pa zo te zien liggen, voor het laatst, is het fijn om hem als zichzelf te zien. De tekening die Mark en Bram in een ver verleden maakten is flink vervaagd door jaren intensief gebruik, maar nog wel te zien. 
 
+#COMMENT#
+Bram fluistert trots ‘hij heeft ons shirt aan!’ tegen Mark, die hier een beetje door moet lachen. 
 
+#COMMENT#
+Zijn oma is echter minder gecharmeerd. Afkeurend glijdt haar blik naar de ingebakken zweetvlekken in het shirt en de hippe scheuren in de broek, en ze haalt haar neus op. 
+#COMMENT#
+Mark kijkt naar zn moeder, die haar schouders ophaalt. ‘Wat had je verwacht’ lijkt uit haar blik te spreken. Even voelt Mark zich schuldig. 
+#COMMENT#
+Dan haalt hij zelf zijn schouders op. ‘Zo kennen wij onze vader, en zo nemen wij afscheid van hem’, denkt hij bij zichzelf.
 ---------------------------------
 #END#

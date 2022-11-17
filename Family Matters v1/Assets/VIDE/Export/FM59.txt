@@ -7,7 +7,20 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
+Platen
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ouderwetse jazznoten schallen over de speakers en de gordijnen vooraan schuiven open. Oma kijkt verstoord verbaasd naar Mark, maar haar uitdrukking verzacht dan. 
 
+#COMMENT#
+De herkenning lijkt oude herinneringen los te maken want ze is even ver weg. Mooie herinneringen, want ze glimlacht erbij. Matthijs zit ook met een blik van herkenning mee te wiegen. 
 
+#COMMENT#
+Mark kijkt even naar zijn moeder die hem een knipoog geeft, die zegt ‘zie je wel dat je zelfvertrouwen moet hebben’.
 ---------------------------------
 #END#

@@ -7,7 +7,27 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
 
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jess gaat bij de speaker staan en heet de mensen welkom. Ze roept de eerste spreker, Matthijs, naar voren. Mark staat met Matthijs op en neemt een goede hoek in, die hij van tevoren heeft uitgekozen. 
+#COMMENT#
+Terwijl Matthijs spreekt neemt Mark foto’s. Van Matthijs die spreekt, van mensen die geroerd zitten te luisteren, van het tafereel op het podium. Hoe meer foto’s hij maakt, hoe meer hij weer zichzelf voelt. 
 
+#COMMENT#
+De doofheid die hij vanochtend voelde is weg, maar het verdriet begint telkens echter te worden. Dit weerhoudt hem er echter niet van door te gaan terwijl de sprekers en muziek elkaar afwisselen. 
+#COMMENT#
+Voor het eerst voelt het, alsof hij zijn verdriet op zijn eigen voorwaarden voelt, in plaats van dat het opgedrongen wordt door de overvallenheid die hij voelde terwijl alles zomaar gebeurde.
+
+#COMMENT#
+Als de speeches uitgesproken zijn en de muziek gedraaid, nodigt Jess iedereen naar voren uit om afscheid te nemen voor ze John naar zijn laatste rustplaats zullen brengen. 
+
+#COMMENT#
+Nu kunnen ze John nog een keer goed zien, wat eerst een beetje lastig was door het podium.
 ---------------------------------
 #END#

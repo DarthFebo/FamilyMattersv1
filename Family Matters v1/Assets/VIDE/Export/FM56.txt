@@ -7,7 +7,38 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
 
+#ISPLAYER#
+False
+---
+#COMMENT#
+Het is de dag van de begrafenis en de ochtend gaat als een vlaag aan Mark voorbij. 
 
+#COMMENT#
+Voor hij het weet staan ze met mensen die hij lang geleden heeft gezien en zich nu niet kan herinneren waarvan bij het uitvaartcentrum te wachten tot de dienst begint. 
+
+#COMMENT#
+Af en toe komt er een vriend van zijn vader ineens tussen de waas van onbekende gezichten, die dan kort een praatje met hem aanknoopt. 
+
+#COMMENT#
+Bram is stil en blijft achter Marks elleboog hangen, vaak de uitgestoken handen van condolerende vreemden negerend.
+
+#COMMENT#
+En dan is het moment daar. Zijn oma klampt zichzelf tussen Mark en zijn oom, op zoek naar houvast, terwijl ze stilletjes naar binnen lopen. 
+
+#COMMENT#
+Ze komen een aula binnen, met rijen stoelen gericht op een podium waar ceremonieus een gordijn voor hangt. 
+
+#COMMENT#
+Ze gaan vooraan zitten, Matthijs en oma aan zijn ene kant en aan zijn andere kant Bram die zijn hand stevig fijnknijpt. 
+
+#COMMENT#
+Daarnaast zit zijn moeder. Mark kijkt naar zijn moeder, wiens hand ook door Bram vermorzeld wordt. Ze lacht een voorzichtig lachje en steekt met haar vrije hand een duimpje op, alsof ze hem gerust wil stellen. 
+
+#COMMENT#
+De muziek begint.
 ---------------------------------
 #END#

@@ -7,7 +7,19 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
+Uitvaarthits
+#ISPLAYER#
+False
+---
+#COMMENT#
+De treurige melodieën van de begrafenis hitlijst klinken over de speakers en de tranen beginnen al te biggelen terwijl de gordijnen openschuiven. 
+#COMMENT#
+Jeff Buckley’s Tears in Heaven raakt menigeen, maar Mark en Bram kijken elkaar ongemakkelijk aan. Het voelt een beetje gedwongen verdrietig, alsof ze dat zelf nog niet genoeg zijn.
 
-
+#COMMENT#
+Ze lijken de enigen, want de rest van de familie zit stilletjes te luisteren.
 ---------------------------------
 #END#

@@ -7,7 +7,23 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
+Pak
+#ISPLAYER#
+False
+---
+#COMMENT#
+Het is raar pa zo in een pak te zien liggen. Hij had precies nooit een pak aan, voor zover Mark wist, behalve op zijn trouwen dan. En nu dus. 
 
+#COMMENT#
+Oma lijkt wel tevreden, want ze zegt ‘kijk nou wat een knappe vent. Als hij zich nou vaker zo kleedde’. Bram morrelt dat hij het stom vind. Mark vind het eigenlijk ook stom, maar hij doet net of hij volwassen is. 
 
+#COMMENT#
+Hij geeft Bram een kalm-maar-kneepje in zijn hand, en realiseert zich dan dat zijn vader dat altijd deed als Mark overstuur was. Bram knijpt terug, net als hij zelf vroeger deed, en Mark merkt dat hij zelf ook een beetje kalmeert. 
+
+#COMMENT#
+Zou z’n vader het eigenlijk daarom altijd hebben gedaan? ‘Denk maar niet dat ik verder nog een pak draag’ denkt hij naar zijn vader, ‘behalve nu dan.’
 ---------------------------------
 #END#

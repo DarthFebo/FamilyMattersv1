@@ -7,7 +7,117 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Bram staat het luidst te joelen van allemaal wanneer Mark zijn diploma in ontvangst neemt. De foto’s die Mark van zijn vader genomen heeft prijken op de beamer terwijl de docent zijn woordje doet.
+
+#COMMENT#
+Docent:
+Een enorme prestatie die je hebt geleverd. Je bent afgestudeerd ondanks het plotselinge verlies van je vader. Waar de meesten hierdoor zouden struikelen, zag jij een kans en inspiratiebron. 
 
 
+#COMMENT#
+Docent:
+In de opkomende markt in rouwfotografie heb jij een stevige voet binnen de deur gezet met je eerlijke en gedurfde vastlegging van het afscheid van je eigen vader. 
+
+#COMMENT#
+Docent:
+De warmte en liefde die door jouw foto’s spreekt is een tegenstrijdig antwoord op het beeld wat we nu vaak met de dood associëren. 
+
+#COMMENT#
+Docent:
+Ik hoop dat jouw werk net zoveel tongen losmaakt in de wijde wereld als het bij ons heeft gedaan. 
+
+#COMMENT#
+Docent:
+Wil je zelf nog iets zeggen?
+
+#COMMENT#
+Mark denkt even na, en zegt dan:
+
+#COMMENT#
+Ik las ergens: Van praten over seks wordt je niet zwanger, en van praten over de dood ga je niet dood. Ik kon met mijn vader overal over praten, maar over de dood hadden we het nooit.
+#COMMENT#
+Mark:
+Toen hij overleed moest ik alles zelf bepalen, en hoewel ik daarvan heb geleerd, gaf het me veel stress. Ik ben trots dat ik hier sta en dat alles gelukt is, maar weet niet zeker of ik alles goed heb gedaan.
+#COMMENT#
+Mark:
+Dat weet je natuurlijk nooit in het leven, maar praat met elkaar, dat neemt een hoop onzekerheid weg. 
+
+#COMMENT#
+Mark:
+Oh ja, en dank je aan iedereen, lieve oma, Matthijs, ma en Bram. Jullie maken het de moeite waard.
+
+#COMMENT#
+‘Hartstikke wijze woorden! Zo zie je maar weer, school kan nog best leerzaam zijn, zelfs als je bij de afstudeerceremonie zit.’ zegt de docent terwijl hij Mark de hand schudt en hem zijn diploma overhandigt.
+#COMMENT#
+Zijn moeder staat apetrots te kijken en Bram klapt zijn handen er bijna af.
+
+#COMMENT#
+‘Zo,’ zegt Mark als ze naar buiten lopen, ‘dat was dat.’
+
+#COMMENT#
+Yvonne: 
+We zijn mega trots op je, als je dat maar weet. Je vader ook, denk ik.
+
+#COMMENT#
+Oma: 
+Dat weet ik wel zeker! Op je diploma èn je goede zorgen. Hij zag er zo mooi uit op die foto’s.
+
+#COMMENT#
+Bram: 
+*somber* Ik mis hem wel. Ik wou dat ik zo’n foto mee kon nemen.
+
+#COMMENT#
+Oma: 
+Weet je wat..
+
+#COMMENT#
+Oma graaft in haar tas en haalt haar portefeuille tevoorschijn. Daaruit vist ze een foto van John.
+
+#COMMENT#
+Oma: 
+Hier, heb je een foto van je vader. Hier was jij net geboren. Had ie ook zo’n vies shirt aan.
+
+#COMMENT#
+Bram fleurt op.
+
+#COMMENT#
+Yvonne: 
+Kop op, het is een feestmoment!
+
+#COMMENT#
+Bram: 
+Oh sorry Mark, ik wilde het niet ongezellig maken! Ik ben gewoon verdrietig dat papa weg is.
+
+#COMMENT#
+Mark: 
+Ik ook, man, dat is toch niet erg. Maar met foto’s en herinneringen is hij er toch een beetje bij.
+
+#COMMENT#
+Oma: 
+Nou, kom allemaal eens hier voor een knuffel. Wat gaan we eten? Toch niet die vieze sushi he?
+
+#COMMENT#
+Bram: 
+Jawel! Sushi! Sushi!
+
+#COMMENT#
+Matthijs: 
+Ja ma, goed idee!
+
+#COMMENT#
+Oma: 
+Mark, waar heb je zin in. Het is jouw feestje.
+
+#COMMENT#
+Mark: 
+Het maakt mij allemaal niks uit. Als jullie blij zijn, ben ik dat ook. Als ik maar niet hoef te kiezen.
 ---------------------------------
 #END#

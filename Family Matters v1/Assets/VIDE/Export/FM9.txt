@@ -1,0 +1,48 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+Tuinieren
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mark stelt voor te tuinieren en dat ziet Bram ook wel zitten. Dat komt mooi uit, want John heeft bij de tuinwinkel zijn favoriete planten en kruiden gehaald. 
+
+#COMMENT#
+Bij het zien van het groen is Bram een beetje verbaasd omdat hij geen standaard bloemen ziet. Het enige wat hij wel ziet wat er een beetje op lijkt is een alata; een vliegenvanger met dichtklappend deksel. 
+
+#COMMENT#
+De plant stinkt. John legt uit dat hij het juist gaaf vind dat wat voor de een stinkt, voor de ander onweerstaanbaar lekker ruikt. Daarnaast doet de val hem denken aan de spannende boeken van vroeger - zoals day of the triffids.
+#COMMENT#
+Hij heeft liever dingen die hem aan iets doen denken of die hem fascineren dan dingen die gewoon mooi zijn. 
+#COMMENT#
+John legt uit dat wanneer de vliegen door de bloem wordt opgegeten, de cirkel rond is. Natuur wordt door natuur opgenomen, en zo hoort het volgens hem. Ook heeft hij wat knollen gekocht die ze planten. 
+
+#COMMENT#
+Daarna laat John zijn zoons wat kruiden proeven. Zijn favoriete kruid is peterselie, omdat het, met de knollen, in een stamppot zat die zijn vader vroeger kookte. Zo rond kerst ook, herinnert John zich. 
+
+#COMMENT#
+De zoons hebben de stamppot nooit geproefd, want opa is lang geleden overleden en de enige die het maakte. Niet dat John niet zou weten hoe hij het moet maken, hij mocht zijn vader regelmatig helpen. 
+
+#COMMENT#
+Bram vraagt of hij een foto mag zien van opa, Mark lacht hem uit en zegt dat dat te lang geleden was. John schiet op zijn beurt in de lach, en zegt dat foto’s echt wel bestonden toen hij jong was. Sterker nog, opa was hobbyfotograaf. 
+
+#COMMENT#
+Wanneer John de oude fotomapjes uit de dozen op zolder heeft gevist is het tijd voor wat familiekiekjes en natuurschoon op film. Mark is geraakt door de mooie foto’s, en vraagt waarom opa die nooit heeft verkocht. 
+
+#COMMENT#
+John vertelt dat opa in zijn foto’s probeerde zo goed mogelijk vast te leggen hoe hij zich over het onderwerp voelde, dus dat opa zelf vond dat de foto’s voor anderen geen waarde hadden. 
+
+#COMMENT#
+Mark zegt dat de foto’s juist heel goed het gevoel van de fotograaf doorgeven. John zegt dat hij dat ook vind, maar dat het opa dus meer waarde gaf om ze te houden, zodat hij het moment opnieuw kon voelen.
+---------------------------------
+#END#

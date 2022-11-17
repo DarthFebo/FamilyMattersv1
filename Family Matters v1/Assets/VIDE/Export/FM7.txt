@@ -1,0 +1,41 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+John: 
+Nou, het is vakantie jongens!
+
+#COMMENT#
+John:
+Wat willen jullie doen?
+
+#COMMENT#
+Bram: 
+Ik vind alles leuk! Als we maar met zijn drieën zijn!
+
+#COMMENT#
+John: 
+Mark, jij mag het zeggen, wat wil je doen?
+
+#COMMENT#
+Mark: 
+Uhm…
+
+#COMMENT#
+Mark:
+Ik wil wel..
+---------------------------------
+#END#

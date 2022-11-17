@@ -1,0 +1,47 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+Schoolwerk
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mark besluit om aan zijn afstudeeropdracht te werken. John vertelt hem dat hij eens op zolder moet kijken naar de oude foto’s van opa, want die was hobbyfotograaf. 
+
+#COMMENT#
+Mark is verrast door deze nieuwe info en gaat op zoek. Achter op zolder vind hij vanalles wat hem nooit eerder is opgevallen. Naast de foto apparatuur liggen onder andere oude jazzplaten en schetsen van een paar bloemen. 
+
+#COMMENT#
+Hij neemt zijn vondst mee om aan Bram en John te laten zien, die ondertussen samen in de tuin aan het moffelen waren. Hij is onder de indruk van de foto’s. 
+
+#COMMENT#
+John vertelt dat opa in zijn foto’s probeerde zo goed mogelijk vast te leggen hoe hij zich over het onderwerp voelde, dus dat opa zelf vond dat de foto’s voor anderen geen waarde hadden. 
+
+#COMMENT#
+Mark zegt dat de foto’s juist heel goed het gevoel van de fotograaf doorgeven. John zegt dat hij dat ook vind, maar dat het opa dus meer waarde gaf om ze te houden, zodat hij het moment opnieuw kon voelen. 
+
+#COMMENT#
+Daarna vraagt Mark wat voor schetsen de bloemen zijn. John zegt dat hij die zelf heeft gemaakt in zijn studententijd, omdat hij ze zo gaaf vond. Het zijn zijn favoriete bloemen.  
+
+#COMMENT#
+Als traditie tekende hij wanneer zijn vader zijn welbekende knollenpot stond te koken voor kerstavond, en als opa klaar was met koken was John klaar met tekenen. 
+
+#COMMENT#
+De val van de bloemen doet hem denken aan de spannende boeken van vroeger - zoals day of the triffids. Hij heeft liever dingen die hem aan iets doen denken of die hem fascineren dan dingen die gewoon standaard zijn. 
+
+#COMMENT#
+Dan krijgt Bram de meegebrachte platen in het oog. Dit ziet John als een mooie kans te laten zien ‘waar zij vroeger op swingden’. Ook deze platen waren van opa, maar oma vond ze niet mooi. Yvonne ook niet. 
+
+#COMMENT#
+Ze zetten de platen aan en John en Bram beginnen te dansen. Mark is geïnspireerd door dit familieplezier en besluit een paar kiekjes te schieten. 
+---------------------------------
+#END#

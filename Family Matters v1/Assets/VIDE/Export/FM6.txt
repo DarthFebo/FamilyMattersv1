@@ -1,0 +1,156 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Het is de vrijdagavond, het begin van de vakantie
+De jongens zitten samen thuis bij hun vader John op de bank te gamen, Bram met Balthazar op schoot. Yvonne zit met John en een kop thee aan de keukentafel.
+#COMMENT#
+Yvonne: 
+Heb je dat ouwe vieze shirt nou nog steeds
+
+#COMMENT#
+John: 
+Helemaal niet vies, het komt net uit de was
+
+#COMMENT#
+Yvonne: 
+De zweetvlekken zijn erin getrokken en er zitten allemaal gaatjes daar onderin
+
+#COMMENT#
+John: 
+Ah joh, die gaatjes heeft iedereen. Het is m’n favoriete shirt, de jongens hebben het voor me gemaakt. 
+
+#COMMENT#
+Yvonne: 
+Als je het ze vraagt maken ze zo een nieuwe denk ik. Dan kan deze ouwe weg.
+
+#COMMENT#
+John: 
+Maar deze is speciaal, ik weet nog dat ik hem kreeg. Het eerste moment dat ik me realiseerde dat ik een echte volwassene was, met mijn eigen burgertrutshirt. 
+
+#COMMENT#
+Yvonne: 
+*wil wat zeggen en bedenkt zich dan*.. en wat gaan jullie deze week doen?
+
+#COMMENT#
+John: 
+Ik heb verschillende ideeën. Een moestuintje voor de jongens of een dekenfort bouwen ofzo. Even tot elkaar komen, elkaar beter leren kennen.
+#COMMENT#
+Yvonne: 
+Elkaar beter te leren kennen? Je bent hun vader, hoeveel beter kàn je ze kennen? Ik denk dat het verstandig is als je ze wat zelfstandigheid geeft. Dat oefenen we bij mij ook en dat gaat super. Ze moeten nu een keer op eigen benen kunnen staan, John
+
+#COMMENT#
+John: 
+Maar dat oefenen ze dan bij jou toch al? En mensen veranderen, je kunt elkaar nooit helemaal kennen. Elke zeven jaar ben je een nieuw mens. Een beetje zoals die theorie dat er geen nu is, met tijd en de rivier waar je in staat? Maar dan met persoonlijkheid.
+
+#COMMENT#
+Yvonne: 
+Wat doe je nou vaag joh. Toen we samen waren was je heel anders. Je vond ook heel andere dingen leuk.
+
+#COMMENT#
+John: 
+Ja, dat zeg ik toch? Iedereen verandert. En misschien vond ik die dingen vooral leuk, omdat ik zelf vond dat iemand als ik die dingen leuk moest vinden. Snap je?
+
+#COMMENT#
+Yvonne: 
+Je bent me helemaal kwijt. Maar goed, moet je verder niet werken dan? Ik had al een programma voor de jongens bedacht om een beetje richting te geven als je aan t werk bent. Bram kan oefenen met zijn sommen en Mark kan vooronderzoek doen voor zijn afstuderen. 
+
+#COMMENT#
+John: 
+In het kader van zelfstandigheid bedoel je?
+
+#COMMENT#
+Yvonne: 
+Je weet wat ik bedoel. Anders gaan ze toch maar een beetje zitten gamen of tekenen 
+ofzo. Zonde om hun tijd zo te verspillen.
+
+#COMMENT#
+John: 
+Als zij daar nou blij van worden, dan is dat toch goed? Of is met je vriendinnen een wijntje drinken ook tijdverspilling?
+
+#COMMENT#
+Yvonne: 
+*zucht*
+
+#COMMENT#
+Yvonne: 
+Maar je werk?
+
+#COMMENT#
+John: 
+Nee, ik heb vrij genomen. Ik vond het belangrijk om wat tijd met ze door te brengen. Het leven is te kort om alleen maar te werken. We gaan wat quality family time besteden!
+
+#COMMENT#
+Yvonne: 
+Als dat maar goed gaat.
+
+#COMMENT#
+John: 
+Wat wil je daarmee zeggen?
+
+#COMMENT#
+Yvonne: 
+Niks slechts, maar de jongens zitten in een moeilijke periode. Bram lijkt af en toe in zijn fantasie te blijven hangen.
+
+#COMMENT#
+John: 
+Dat is gewoon het begin van het ontwikkelen van zijn creatief vermogen, dat is gezond. En het hoort bij de leeftijd. Ik denk dat hij opkijkt naar zijn broer.
+
+#COMMENT#
+
+Yvonne: 
+Ja maar daar maak ik me ook zorgen over. Mark lijkt zo lusteloos de laatste tijd. Helemaal niet creatief meer. Hij zit alleen maar op zijn telefoon.
+
+#COMMENT#
+John: 
+Zoals de rest van de wereld..
+
+#COMMENT#
+Yvonne: 
+En hoe gaat het daarmee? Ik las laatst een onderzoek dat veel jongeren depressief worden van social media. Misschien heeft Mark daar ook last van. De hele dag naar andere kunstenaars kijken die heel goed zijn zal vast niet alleen inspirerend werken. 
+
+#COMMENT#
+John: 
+Misschien heb je wel een beetje gelijk. Ik zal erop letten. Maar ik denk dat jij ook op jezelf moet letten. Dat gezorg om iedereen wordt nog eens je ondergang.
+
+#COMMENT#
+Yvonne: 
+Misschien heb jij daar wel weer een punt. Leren we toch nog voor elkaar.
+
+#COMMENT#
+Yvonne:
+Oh over volgende week nog, vergeet niet dat Bram een nieuwe kerstoutfit nodig heeft, wel een beetje galant of netjes, en dat mam heeft gezegd dat jullie het hoofdgerecht mee moeten nemen, ze wilt graag gratin.
+
+#COMMENT#
+John: 
+Ja ja.. Hetzelfde recept als altijd toch?
+
+#COMMENT#
+Yvonne: 
+Daar ga ik weer he..
+
+#COMMENT#
+John: 
+Soms is het je minpunt, en soms is het je sterkte. Maar niemand is perfect, en dat maakt het weer leuk.
+
+#COMMENT#
+Yvonne: 
+Dat is waar.
+
+#COMMENT#
+Ze proosten
+---------------------------------
+#END#

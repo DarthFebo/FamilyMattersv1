@@ -1417,10 +1417,18 @@ MonoBehaviour:
   - Example4_dialogue
   - FamilyMatters
   - FM1
+  - FM10
+  - FM11
+  - FM12
+  - FM13
   - FM2
   - FM3
   - FM4
   - FM5
+  - FM6
+  - FM7
+  - FM8
+  - FM9
   - Item_LookUp
   - Laura
   - MrCube
@@ -1430,8 +1438,8 @@ MonoBehaviour:
   - TriggeredDude
   - Witch
   assignedIndex: 11
-  assignedID: 69978
-  assignedDialogue: FM4
+  assignedID: 48448
+  assignedDialogue: FM12
   interactionCount: 0
   alias: 
   overrideStartNode: -1
@@ -1477,8 +1485,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21c802c93f536084893b5a638b0f55c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneAsset: {fileID: 102900000, guid: da0b9d793ac2eb24f818ca65a2d2deb8, type: 3}
-  sceneName: Assets/Scenes/FM5.unity
+  sceneAsset: {fileID: 102900000, guid: 3a9215131d1273546a055efddaed6beb, type: 3}
+  sceneName: Assets/Scenes/FM13.unity
 --- !u!1 &1843767827
 GameObject:
   m_ObjectHideFlags: 0

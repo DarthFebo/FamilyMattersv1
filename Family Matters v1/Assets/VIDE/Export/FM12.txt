@@ -1,0 +1,65 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Het is tijd om het kerstdiner voor te bereiden. 
+
+#COMMENT#
+John: 
+Oma heeft gevraagd of wij het hoofdgerecht voor het kerstdiner kunnen maken. Dus ik heb het recept voor gratin alweer gegoogeld.
+
+#COMMENT#
+Mark: 
+Ah nee, weer gratin? Die ouderwetse kledder?
+
+#COMMENT#
+Bram: 
+Ik vind het lekker. Vooral als oma het heeft gemaakt.
+
+#COMMENT#
+John: 
+En bedankt.
+
+#COMMENT#
+Mark: 
+Nee ik vind het ook wel lekker. We doen t alleen altijd. Matthijs kwam nog met sushi.
+
+#COMMENT#
+John: 
+Sushi? Ik denk dat je met een zo’n rol oma een rolberoerte bezorgt
+.
+
+#COMMENT#
+Bram: 
+Kunnen we niet dat knoppelpot van opa eten waar je over vertelde?
+
+#COMMENT#
+John: 
+Knollenpot? Dat zou wel kunnen. Mooie memorylane voor onze ouwe knarren.
+
+#COMMENT#
+Mark: 
+Nou, wat gaan we doen?
+
+#COMMENT#
+John: 
+Jij mag het zeggen. Hebben we toch nog met je verantwoordelijkheid geoefend.
+
+#COMMENT#
+Mark:
+Dan koken we
+---------------------------------
+#END#

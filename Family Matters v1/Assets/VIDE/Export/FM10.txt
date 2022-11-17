@@ -1,0 +1,40 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FamilyMatters
+---------------------------------
+#NODEID#
+0
+#TAG#
+Dekenfort
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mark stelt voor in de woonkamer te kamperen. John vind het een prachtplan en haalt oude dekens en doeken van zolder. 
+#COMMENT#
+Wanneer ze in hun dekenfort/makeshift tent zitten met grote kussens en een zaklamp, begint John over zijn eigen jeugd en vader te vertellen. 
+Hij herinnert zich dat hij met zijn vader en moeder lange stukken reed, en een uitzonderlijke keer mocht vliegen.
+#COMMENT#
+ Bram vraagt waarom zij dat eigenlijk nooit doen. John legt uit dat, onder andere op zijn reizen - hij zag hoe vervuilend mensen kunnen zijn. Nu hij wat ouder is en de gevolgen ook echt weet probeert hij zo min mogelijk voetafdruk achter te laten. 
+
+#COMMENT#
+Mark vraagt om meer verhalen van vroeger. John ziet zijn kans schoon de jongens wat van zijn jeugd te laten zien en gaat zijn platen halen. 
+
+#COMMENT#
+Na wat gekloot met de versterker en de speler klinken er ineens oude jazznoten. Hij vertelt dat het de oude platen van zijn vader zijn, maar dat zijn moeder ze niet mooi vond. 
+
+#COMMENT#
+Toen zijn vader overleed heeft John ze bewaard tot hij uit huis ging, maar toen ook zijn vriendin Yvonne de platen verschrikkelijk bleek te vinden, verdwenen ze op een stuk zolder speciaal gereserveerd voor diep weggestopte plezieren die je partner niet kan waarderen. 
+
+#COMMENT#
+Nu John zo de tonen hoort kan hij bijna zijn vaders stamppot nog ruiken, die die vroeger maakte, zo rond kerst. 
+
+#COMMENT#
+De jongens hebben hun vader al een tijd niet zo vrolijk gezien. Na de jazzplaten draait John wat disconummers uit zn tienerjaren en laat wat nooit eerder vertoonde dancemoves zien, tot plezier van Bram en plaatsvervangende schaamte van Mark.
+---------------------------------
+#END#

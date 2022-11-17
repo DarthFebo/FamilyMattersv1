@@ -7,7 +7,18 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
-
-
+#NODEID#
+0
+#TAG#
+Muziek
+#ISPLAYER#
+True
+---
+#COMMENT#
+De lijst met klassieke uitvaart hits
+#COMMENT#
+De lijst van Matthijs
+#COMMENT#
+De oude platen van opa
 ---------------------------------
 #END#

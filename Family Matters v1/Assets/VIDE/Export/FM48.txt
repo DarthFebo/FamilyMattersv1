@@ -7,7 +7,18 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
-
-
+#NODEID#
+0
+#TAG#
+Kaart
+#ISPLAYER#
+True
+---
+#COMMENT#
+Nette standaard rouwkaart
+#COMMENT#
+Ansichtkaart
+#COMMENT#
+Zadenkaart
 ---------------------------------
 #END#

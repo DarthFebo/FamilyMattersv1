@@ -7,7 +7,119 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
 
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jess: 
+Nou hebben we het meest wel achter de rug. Weten jullie of hij begraven of gecremeerd wilde worden?
 
+#COMMENT#
+Yvonne: 
+Nou, sowieso niet gecremeerd want hij was bang voor vuur, een soort angst levend te verbranden. Laten we hem dat dood dan niet aandoen.
+
+#COMMENT#
+Mark: 
+Is dat zo? Ik wist dat niet.
+
+#COMMENT#
+Yvonne: 
+We hebben het erover gehad toen er zo’n film uitkwam over iemand die levend was begraven. Het leek me zo afschuwelijk dat het me weken bij bleef, maar toen ik het er met je vader over had zei hij ‘alles beter dan de vlammen’ en daar was hij nogal stellig over.
+
+#COMMENT#
+Mark: 
+Begraven dus.
+
+#COMMENT#
+Jess: 
+Goed, de locatie dan, er zijn twee mogelijkheden in de buurt die door jullie verzekering wordt gedekt. De een is een rooms katholieke begraafplaats, de ander een natuurbegraafplaats. 
+
+#COMMENT#
+Mark: 
+Wat is dat?
+
+#COMMENT#
+Jess: 
+Bij een natuurbegraafplaats is, de naam zegt het al, het behoud van natuur belangrijk. Mensen kunnen in een kist of wade met mand begraven worden, 
+
+#COMMENT#
+Bram: 
+Mand?
+
+#COMMENT#
+Mark: 
+Bram sst
+
+#COMMENT#
+Jess: 
+Ja, geen hondenmand ofzo, als je daaraan dacht, maar zo’n grote rieten mand, en de graven liggen allemaal niet zo netjes als je gewend bent. 
+
+#COMMENT#
+Jess:
+Bij deze begraafplaats worden bijvoorbeeld ook geen gedenkstenen geplaatst. Sommige stukken zien er bijna moerasachtig uit omdat de natuur het overneemt. 
+
+#COMMENT#
+Yvonne: 
+Je opa ligt ook op de roomskatholieke begraafplaats, ik denk dat oma dat wel mooi zou vinden. Haar ouders ook, trouwens.
+
+#COMMENT#
+Mark: 
+Dat klinkt inderdaad wel mooi. Heeft ie nog een beetje gezelschap. Maar hij is niet roomskatholiek, toch?
+
+#COMMENT#
+Yvonne: 
+Dat klopt, je pa is rasatheïst. Qua dat past de natuurbegraafplaats beter bij hem.
+
+#COMMENT#
+Mark: 
+God, ik weet het niet. Wat denk jij?
+
+#COMMENT#
+Yvonne: 
+Ik weet het ook niet. Ik denk dat je moet denken aan wie er langs zullen komen. 
+
+#COMMENT#
+Mark: 
+Waar zou jij liever komen?
+
+#COMMENT#
+Yvonne: 
+Liever?
+
+#COMMENT#
+Mark: 
+Ja nee, je snapt me.
+
+#COMMENT#
+Yvonne: 
+Als ik heel eerlijk ben, ik ben niet zo van het graven bezoeken. Ik draag diegene altijd bij me in mijn hart, en dat is voor mij genoeg. Ik hoef niet perse ergens heen om er daar even aan te staan denken. 
+
+#COMMENT#
+Yvonne:
+Ik word dan meer herinnerd aan iemands dood dan aan iemands leven. Maar voor sommigen kan het helpen. Je oma gaat elke maand naar het graf van opa. Of ging, eigenlijk. Nu haar heup slechter wordt gaat ze minder vaak.
+
+#COMMENT#
+Mark: 
+Ik heb niet zoveel ervaring met dode mensen bezoeken, opa was voor mijn tijd, dus ik weet het niet.
+
+#COMMENT#
+Bram: 
+Ik ben met school naar een begraafplaats geweest.
+
+#COMMENT#
+Mark: 
+En?
+
+#COMMENT#
+Bram: 
+Ik ben liever in een moeras.
+
+#COMMENT#
+Jess: 
+Sorry mensen, we dwalen een beetje af. Welke begraafplaats kies je?
 ---------------------------------
 #END#

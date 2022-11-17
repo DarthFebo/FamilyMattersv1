@@ -7,7 +7,102 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+De familie zit aan tafel. Tot ongenoegen van oma hebben ze chinees besteld maar iedereen heeft honger dus wanneer het bord dampend eten voor ze staat eet ze toch mee als een student op bezoek bij zijn ouders.
+#COMMENT#
+Oma: 
+Hoe ging het met de uitvaartondernemer?
+
+#COMMENT#
+Yvonne: 
+Het ging wel. Mark was een beetje overdonderd, keuzestress denk ik, dus ze komt later terug. 
 
 
+#COMMENT#
+Mark: 
+Ik raakte haar een beetje kwijt. Er waren zoveel opties. En dan kan ik ook nog met eigen ideeën komen. Ik heb nu al geen idee. ‘Je hoeft alleen maar’ zei die dame, en toen kwam ze toch met een waslijst. Kist, bloemen, muziek, kaarten, cake kleur, koffiesmaak.
+
+#COMMENT#
+Oma: 
+Ik zou het niet te gek maken. Die verzekeringen keren toch nauwelijks uit. Je kiest gewoon wat er binnen hun standaardpakket het meest degelijk uitziet.
+
+#COMMENT#
+Yvonne: 
+Dat valt wel mee hoor. Je kan tegenwoordig redelijk wat zelf kiezen, zag ik. En voor keuzes buiten hun pakket kun je een vergoeding krijgen.
+
+#COMMENT#
+Mark: 
+En het moet natuurlijk niet te standaard, dat was papa ook niet. Ik zou hem niet in zo’n witte lelijke kist met kussentjes willen zien, dan is het net of ik naar een Amerikaanse film zit te kijken.
+
+#COMMENT#
+Bram: 
+Anders versier ik de kist wel!
+
+#COMMENT#
+Mark: 
+Met make-up zeker.
+
+#COMMENT#
+Bram: 
+*serieus* Nee, met geurstiften. Dan ruikt het lekker voor papa. 
+
+#COMMENT#
+Mark: 
+Da’s tegen die tijd misschien wel nodig.
+
+#COMMENT#
+Oma: 
+Als jullie die gekkigheid maar laten. Het hoeft geen parade te worden.
+
+#COMMENT#
+Matthijs: 
+Nee, die bewaar je maar voor mij.
+
+#COMMENT#
+Oma: 
+Ik meen het hoor. Het kan tegenwoordig allemaal niet gek genoeg. Als je ziet dat mensen halve bossen in brand steken om het geslacht van hun kind te vieren, houd ik mn hart vast bij het idee waar dit allemaal heen gaat. 
+
+#COMMENT#
+Oma:
+Het is een serieuze aangelegenheid, geen poppenkast, en ik vind dat er respectvol mee omgegaan moet worden.
+
+#COMMENT#
+Yvonne: 
+Ik weet zeker dat Mark dat ook echt doet, ma. Maar ik snap best dat ze geen dertien in een dozijn begrafenis willen voor hun vader.
+
+#COMMENT#
+Bram: 
+Mark moet gewoon kiezen wat papa zou willen. Op je verjaardag mag je ook alles kiezen, waarom bij een begrafenis niet?
+
+#COMMENT#
+Mark: 
+Hoe weet ik nou wat papa zou willen?
+
+#COMMENT#
+Matthijs: 
+Ik denk dat jij dat prima weet, als je maar even de tijd krijgt om erover na te denken. Zoals je merkt willen we allemaal helpen, ook al laten we dat soms vreemd blijken *kijkt even naar oma*. Ik kan best de muziek samenstellen als je dat wilt, en je moeder kan zijn outfit uitzoeken. 
+
+#COMMENT#
+Matthijs:
+Het komt allemaal vast goed. Een begrafenis is voor de nabestaanden, je vader merkt er niks meer van als jij de ‘verkeerde’ bloemen kiest, welke dat dan ook moge zijn.
+
+#COMMENT#
+Oma: 
+Maar wij wel. 
+
+#COMMENT#
+Matthijs: 
+Dat klopt. Dus moeten we een beetje compromissen sluiten op wat we denken dat hij zou willen en wat we zelf willen, denk ik.
+
+#COMMENT#
+Yvonne: 
+Genoeg stof tot nadenken voor nu. Het is mijn huis dan wel niet meer, ik ga jullie er toch uit zetten. De jongens moeten naar bed.
 ---------------------------------
 #END#

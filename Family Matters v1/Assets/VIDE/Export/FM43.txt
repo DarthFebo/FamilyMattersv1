@@ -7,7 +7,53 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
 
+#ISPLAYER#
+False
+---
+#COMMENT#
+De volgende middag staat Jess weer voor de deur om zogezegde knopen door te hakken. 
 
+#COMMENT#
+Aan tafel pakt ze de map er weer bij
+
+#COMMENT#
+Jess: 
+Laten we klein beginnen en dan naar het groot toewerken, dan is het misschien wat beter te doen. 
+
+#COMMENT#
+Jess:
+Welke muziek moeten we draaien? We hebben een vaste lijst met mooie nummers die vaak worden gebruikt, daar kun je een kant en klare lijst van kiezen, maar als je iets anders wilt kan dat ook.
+
+#COMMENT#
+Yvonne: 
+Matthijs stelde gister voor een lijstje te maken. Dat zijn ongetwijfeld liedjes die je vader leuk vond maar ik weet niet of ze allemaal zo gepast zijn voor een uitvaart.
+
+#COMMENT#
+Bram: 
+Of de platen van opa!
+
+#COMMENT#
+Yvonne: 
+Wat?
+
+#COMMENT#
+Bram: 
+Papa heeft me de oude platen van opa laten zien. Die vond hij mooi.
+
+#COMMENT#
+Yvonne: 
+Ik weet niet of dat goed past. Denken jullie daarbij aan je vader?
+
+#COMMENT#
+Bram: 
+Weet ik niet. Papa vond ze mooi.
+
+#COMMENT#
+Jess: 
+Zeg het maar, Mark, welke muziek wordt het?
 ---------------------------------
 #END#

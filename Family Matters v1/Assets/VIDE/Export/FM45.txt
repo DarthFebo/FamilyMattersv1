@@ -7,7 +7,48 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
 
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jess: 
+Goed, dat was de eerste taak. Op naar de volgende. Welke bloemen zouden jullie willen bij de dienst? We hebben standaard boeketten met lelies of tulpen.
 
+#COMMENT#
+Mark: 
+Ik weet niet zoveel over bloemen..
+
+#COMMENT#
+Yvonne: 
+Ik ken z'n favoriete plant wel maar weet niet of dat erg past.
+
+#COMMENT#
+Jess: 
+Welke is dat?
+
+#COMMENT#
+Yvonne: 
+Zo’n vleesetende met een dekseltje. 
+
+#COMMENT#
+Mark: 
+Ohja, dat zegt me wel wat. Beetje spooky wel.
+
+#COMMENT#
+
+Yvonne: 
+Wel een stuk milieubewuster dan tulpen, en dat vond je vader wel belangrijk.
+
+#COMMENT#
+Jess: 
+We hebben ook lelies! *zachtjes tegen zichzelf* alhoewel ik niet weet hoe milieubewust dat dan weer is.
+
+#COMMENT#
+Bram: 
+Kun je niet de kruiden en knollen uit de tuin pakken? Dat vind het milieu vast niet erg.
 ---------------------------------
 #END#

@@ -7,7 +7,50 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
 
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jess: 
+We schieten lekker op! Op naar de rouwkaart. Heb je al een tekst daarvoor? Een motto, een gedicht, zoiets.
 
+#COMMENT#
+Mark: 
+Nou, ik heb van papa een mooie kaart. Ik vond het wel een idee om die te versturen. 
+
+#COMMENT#
+Mark haalt de kaart die in de envelop zat tevoorschijn. 
+
+#COMMENT#
+Jess: 
+Ik zie wel dat humor bij jullie in de familie zit. We kunnen deze zo printen als je wilt, hoe wil je hem dan hebben? 
+
+#COMMENT#
+Jess:
+Dezelfde tekst, maar op een ‘nette’ standaard rouwkaart in zo’n envelop met zwarte rand?
+
+#COMMENT#
+Jess:
+Wil je hem voor het sentiment precies als deze, zelfde lettertype en als ansichtkaart? 
+
+#COMMENT#
+Jess:
+Of, ik hoor je moeder net zeggen dat je vader van het milieu hield en wat tegenwoordig populair is, een zadenkaartje? Dat de ontvangers de kaart kunnen planten?
+
+#COMMENT#
+Yvonne: 
+Ik denk dat een rouwkaart wel netjes is.
+
+#COMMENT#
+Bram: 
+Maar zo’n zadenkaart is leuk!
+
+#COMMENT#
+Jess: 
+De print wordt er wel minder mooi van, moet ik zeggen. 
 ---------------------------------
 #END#

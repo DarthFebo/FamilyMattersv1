@@ -7,7 +7,18 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
-
-
+#NODEID#
+0
+#TAG#
+Bloemen
+#ISPLAYER#
+True
+---
+#COMMENT#
+Standaard boeket lelie's
+#COMMENT#
+Vleesetende planten
+#COMMENT#
+Knollen en kruiden
 ---------------------------------
 #END#

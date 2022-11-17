@@ -7,7 +7,86 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
 
+#ISPLAYER#
+False
+---
+#COMMENT#
+Het is nacht. 
 
+#COMMENT#
+Mark zit in een stoel naar zijn vader te kijken. 
+
+#COMMENT#
+Hij hoopt dat hij zijn vader ineens ziet bewegen. 
+
+#COMMENT#
+Intens staart hij naar Johns stille borst. Dan bedenkt hij zich dat hij liever niet heeft dat zijn vader ineens beweegt, stel je voor dat die ineens opstaat en in een zombie verandert, zoals in de horrorfilms die ze vroeger samen keken. 
+
+#COMMENT#
+Mark schiet in de lach bij de gedachte. Hij staat op en legt zijn hand op die van zijn vader. 
+
+#COMMENT#
+Wanneer hij weg wil gaan ziet hij bij zijn voeten, half onder het bed, een stapeltje folders. Het zijn de folders die Yvonne heeft mee gebracht. 
+
+#COMMENT#
+Wanneer Mark ze wil rangschikken ziet hij dat het niet alleen folders zijn, maar ook een paar brieven. Als hij zijn naam in het handschrift van zijn vader op een van de enveloppen ziet voelt hij een warme rilling. 
+
+#COMMENT#
+Hij opent de envelop en wilt de brief lezen maar voelt zich bekeken, als wanneer je een verjaardagskaart probeert te lezen waar de gever veel te enthousiast naast blijft staan, en besluit dat het beter is de brief met een kop thee tot zich te nemen. 
+
+#COMMENT#
+In de warme veiligheid van de keuken en met een dampende kop thee opent Mark de envelop weer. Hij begint te lezen
+
+#COMMENT#
+‘Lieve Mark,
+#COMMENT#
+Dit is een brief die je niet wil sturen als vader. In ieder geval niet nu al.
+#COMMENT#
+Er is nog zoveel wat gezegd had kunnen worden, nog zoveel dingen die gedaan hadden moeten worden. Ik heb de laatste weken geprobeerd er het meeste van te maken, en toch was er te weinig tijd om alles tegen je te zeggen. 
+#COMMENT#
+Ik heb zoveel van je genoten en zoveel van je geleerd. Ik was niet altijd de beste vader maar deed wel altijd mijn best. Ik zie hoeveel je van de wereld houdt en hoe moeilijk je het vind dat anderen die liefde niet altijd delen.
+
+#COMMENT#
+ Maar weet dat jouw kracht in jou zit. De manier waarop jij mensen raakt, is door jouw lens.
+
+#COMMENT#
+ Je denkt misschien dat jouw werk niet aanspreekt of dat jij niet goed genoeg bent, maar weet dat wat voor jou goed is, gewoon goed is. 
+
+#COMMENT#
+Je hoeft jouw wereld niet te verbeteren voor anderen, als je de wereld maar voor jezelf leefbaar maakt. Doe wat jou gelukkig maakt, daarmee maak je anderen ook gelukkig. Natuurlijk niet iedereen, maar dat doet iedereen ook niet voor jou. 
+
+#COMMENT#
+Ik wens je zoveel succes op de paden die je gaat lopen. Ik ben, altijd al en voor altijd, trots op je (geweest) en dankbaar dat ik deel heb uitgemaakt van de reis die de jouwe is.
+
+#COMMENT#
+Met liefde,
+#COMMENT#
+Je vader’ 
+#COMMENT#
+Uit de envelop vallen nog twee dingen; een krantenknipsel en een kaartje.
+
+#COMMENT#
+Het krantenknipsel gaat over de betekenis van opkomende rouwfotografie en het kaartje is een ansicht die zijn vader jaren op zijn bureau had staan.
+
+#COMMENT#
+Terwijl Mark het kaartje leest en het krantenartikel bekijkt schiet hij in de lach. 
+#COMMENT#
+Het is typisch zijn vader om af te sluiten met een lullige wijsheid en een tip. Mark kijkt nog eens naar het artikel, en gaat naar boven om zijn camera te pakken. Hij heeft de tip luid en duidelijk begrepen. 
+
+#COMMENT#
+Het begint al licht in de kamer te worden terwijl Mark plaatjes van zijn vader schiet. 
+
+#COMMENT#
+In de ochtendzon, de stralen door zijn wimpers, comfortabel gelegen in zijn eigen omgeving, zou de aanschouwer van de foto zich kunnen vergissen en denken dat John ligt te slapen. 
+
+#COMMENT#
+Een liefdevolle foto die een zoon van zijn vader maakt op een zondagmorgen. 
+
+#COMMENT#
+Zo zou het zomaar kunnen lijken.
 ---------------------------------
 #END#

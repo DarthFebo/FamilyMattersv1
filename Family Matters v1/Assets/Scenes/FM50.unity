@@ -1439,8 +1439,29 @@ MonoBehaviour:
   - FM28
   - FM29
   - FM3
+  - FM30
+  - FM31
+  - FM32
+  - FM33
+  - FM34
+  - FM35
+  - FM36
+  - FM37
+  - FM38
+  - FM39
   - FM4
+  - FM40
+  - FM41
+  - FM42
+  - FM43
+  - FM44
+  - FM45
+  - FM46
+  - FM47
+  - FM48
+  - FM49
   - FM5
+  - FM50
   - FM6
   - FM7
   - FM8
@@ -1453,9 +1474,9 @@ MonoBehaviour:
   - QuestChartDemo
   - TriggeredDude
   - Witch
-  assignedIndex: 29
-  assignedID: 43998
-  assignedDialogue: FM29
+  assignedIndex: 53
+  assignedID: 96881
+  assignedDialogue: FM50
   interactionCount: 0
   alias: 
   overrideStartNode: -1
@@ -1501,8 +1522,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21c802c93f536084893b5a638b0f55c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneAsset: {fileID: 102900000, guid: f36292da150b29d4bb058aa4aafe945f, type: 3}
-  sceneName: Assets/Scenes/FM6.unity
+  sceneAsset: {fileID: 102900000, guid: 67f7f1211c9a6434a8940859f5fc16c0, type: 3}
+  sceneName: Assets/Scenes/FM51.unity
 --- !u!1 &1843767827
 GameObject:
   m_ObjectHideFlags: 0

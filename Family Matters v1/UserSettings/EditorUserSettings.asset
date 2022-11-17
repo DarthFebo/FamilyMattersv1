@@ -6,34 +6,34 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
-      value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
-      flags: 0
-    RecentlyUsedSceneGuid-1:
-      value: 5206010707530a085a5f5b7745710c44141549297d7d756378701e30e3e1323a
-      flags: 0
-    RecentlyUsedSceneGuid-2:
-      value: 52005254570151095c0f5e2748200644444f1e2c2e2d22647c704a6be4e2646d
-      flags: 0
-    RecentlyUsedSceneGuid-3:
-      value: 05060005500c5c5f580f5c74167a0f44444f1b72297c20312f7c4d31b1b73669
-      flags: 0
-    RecentlyUsedSceneGuid-4:
-      value: 0601500556050d0d0e5d5e2340215d4447161b7d79717f66792d4a60b2e6353c
-      flags: 0
-    RecentlyUsedSceneGuid-5:
       value: 50530757060d5b58085f597213200f44444e1a737b2d7635787e4b60b3b1356d
       flags: 0
-    RecentlyUsedSceneGuid-6:
+    RecentlyUsedSceneGuid-1:
       value: 53005654570c510b5f0b0d70437a0b4444151e7d747e75692f2b4566e7b4356e
       flags: 0
-    RecentlyUsedSceneGuid-7:
+    RecentlyUsedSceneGuid-2:
       value: 545401515605515f08085c7443220c441215402c7d2a20312b2a4565b1b7376a
       flags: 0
-    RecentlyUsedSceneGuid-8:
+    RecentlyUsedSceneGuid-3:
       value: 0005555f0302590b5e590f7641760944404f1e2c747c76347e784964bbb66260
       flags: 0
-    RecentlyUsedSceneGuid-9:
+    RecentlyUsedSceneGuid-4:
       value: 050455505153085f0e5c557743735d44424e497e7b7b20682e7f4f37b2e3626a
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5506525103045b0a5c0d552346770c44174f417e7c7073692b7c1b30b3b63768
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 0704550401545b085f5b0d7b45220944424f492c7b292362747d1965bae3326d
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 5b55520452015f5d09595823487b5d44434f4f787979246429784b64b6b9326b
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 5206015100575c0d59570f264520084446164e787e7f76667d784832b6e4646d
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 5702505151575c0f0b0a592149740d444e4e1e7c7a2a72677a791964b4b06539
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650

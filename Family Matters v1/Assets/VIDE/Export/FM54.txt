@@ -7,7 +7,18 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
-
-
+#NODEID#
+0
+#TAG#
+Kleding
+#ISPLAYER#
+True
+---
+#COMMENT#
+Pak
+#COMMENT#
+Favoriete kloffie
+#COMMENT#
+Wade
 ---------------------------------
 #END#

@@ -7,7 +7,38 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
 
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jess: 
+Goed, hartstikke goed gedaan iedereen. Ik moet er nu vandoor, maar we spreken elkaar later.
 
+#COMMENT#
+Yvonne: 
+Ik zal de rest van de details later verder met je afhandelen. Ik had wat beter zicht op zijn adresboek, bijvoorbeeld, en heb wat meer verstand van zaken als het op verzekeringen en dergelijke aankomt.
+
+#COMMENT#
+Jess: 
+Lijkt me prima. We houden contact.
+
+#COMMENT#
+Jess loopt de deur uit en Yvonne wendt zich tot Mark.
+
+#COMMENT#
+Yvonne: 
+Goed gedaan, knul.
+
+#COMMENT#
+Mark: 
+Maar ik koos niet altijd wat jij zei..
+
+#COMMENT#
+Yvonne: 
+Maar je hebt wel gekozen. Als je er echt niet uit was gekomen had ik je wel geholpen maar je deed het prima. Je mag best wel trots op jezelf zijn. Ik denk dat je vader dat ook is.
 ---------------------------------
 #END#

@@ -7,7 +7,20 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
-
-
+#NODEID#
+0
+#TAG#
+Kist
+#ISPLAYER#
+True
+---
+#COMMENT#
+Hout
+#COMMENT#
+Karton
+#COMMENT#
+Bamboe
+#COMMENT#
+Mand
 ---------------------------------
 #END#

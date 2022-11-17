@@ -7,7 +7,39 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
 
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jess: 
+Dan zijn we bij de kist aangekomen. We hebben verschillende modellen in verschillende prijsklasses.
 
+#COMMENT#
+Bram: 
+En manden.
+
+#COMMENT#
+Jess: 
+Dat klopt, ook manden.
+
+#COMMENT#
+Mark: 
+Wat is het best?
+
+#COMMENT#
+Jess: 
+Dat ligt er aan wat je belangrijk vind.
+
+#COMMENT#
+Mark: 
+De natuur dus.
+
+#COMMENT#
+Jess: 
+Je kan bijvoorbeeld gaan voor hout, karton, bamboe, of, zoals je broer zei, een rieten mand. Hout vergaat dan het minst snel, en de mand het meest.
 ---------------------------------
 #END#

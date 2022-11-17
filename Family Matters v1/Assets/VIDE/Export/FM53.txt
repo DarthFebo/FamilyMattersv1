@@ -7,7 +7,58 @@ Do not restructure the data.
 
 Dialogue name: FamilyMatters
 ---------------------------------
+#NODEID#
+0
+#TAG#
 
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jess: 
+Als laatste heb ik zijn outfit alvast nodig voor het klaarmaken van het lichaam later. 
 
+#COMMENT#
+Yvonne loopt naar de slaapkamer en komt terug met pak.
+
+#COMMENT#
+Yvonne: 
+Ik heb zijn trouwpak uitgezocht. Het stond hem zo mooi. Hij heeft het jaren niet aangehad, maar ik zag het in zijn kast hangen. 
+
+#COMMENT#
+Jess: 
+Weet u dan zeker of het nog past?
+
+#COMMENT#
+Yvonne:
+Oh.. uh.. Daar had ik niet bij stilgestaan. Wat denken jullie?
+
+#COMMENT#
+Mark: 
+*schudt zijn hoofd* daar heeft ie iets teveel voor van het leven genoten.
+
+#COMMENT#
+Yvonne: 
+Een ander pak dan? Ik kan nog wel even naar de winkel.
+
+#COMMENT#
+Bram: 
+Maar hij droeg nooit een pak! 
+
+#COMMENT#
+Yvonne: 
+We kunnen hem moeilijk in z’n blote kont begraven.
+
+#COMMENT#
+Bram: 
+Kan je hem niet in zijn favoriete shirt begraven?
+
+#COMMENT#
+Yvonne: 
+Dat vieze ouwe ding? Met zijn versleten spijkerbroek zeker.
+
+#COMMENT#
+Jess: 
+Wades zijn ook nog een optie. Ik zou het wel graag nu horen, want ik moet zo weer door.
 ---------------------------------
 #END#

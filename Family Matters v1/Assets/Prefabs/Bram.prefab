@@ -443,7 +443,7 @@ SkinnedMeshRenderer:
   - {fileID: 6841038797894710252}
   m_BlendShapeWeights:
   - 37
-  - 0
+  - 8
   - 0
   m_RootBone: {fileID: 7696153221864729904}
   m_AABB:
@@ -3097,7 +3097,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 1
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300038, guid: 4b3d6be02d496cc4ba6547ed6122d614, type: 3}
+  m_Mesh: {fileID: 4300038, guid: 22e96424c8244c94c9e181ff91150a70, type: 3}
   m_Bones:
   - {fileID: 7696153221864729904}
   - {fileID: 1906061495636429354}
@@ -4743,34 +4743,34 @@ SkinnedMeshRenderer:
   - 0
   - 100
   - 0
-  - 10
-  - 0
-  - 0
-  - 10
-  - 51
+  - 42
+  - 81
+  - 49
+  - 12
+  - 60
   - 25
-  - 15
-  - 72
-  - 24
+  - 0
+  - 50
+  - 65
   - 17
-  - 0
-  - 0
-  - 46
+  - 56
+  - 37
+  - 89
   - 24
+  - 26
+  - 10
   - 8
+  - 10
+  - 80
   - 0
+  - 13
   - 0
-  - 0
-  - 54
+  - 19
+  - 25
+  - 20
   - 17
-  - 0
-  - 0
-  - 0
-  - 51
-  - 23
-  - 0
   - 16
-  - 11
+  - 12
   - 73
   - 7
   - 0
@@ -5478,7 +5478,7 @@ MonoBehaviour:
     - {fileID: 2926833728039263478}
   animator: {fileID: 7309672419701266961}
   characterSelectedElements:
-    Hair: 5
+    Hair: 2
     Beard: -1
     Hat: -1
     Shirt: 8
@@ -5509,19 +5509,19 @@ MonoBehaviour:
   - blendshapeName: Ear_Size
     type: 6
     group: 1
-    value: 10
+    value: 42
   - blendshapeName: Ear_Angle
     type: 7
     group: 1
-    value: 0
+    value: 81
   - blendshapeName: Jaw_Width
     type: 8
     group: 1
-    value: 0
+    value: 49
   - blendshapeName: Jaw_Offset
     type: 9
     group: 1
-    value: 10
+    value: 12
   - blendshapeName: Jaw_Shift
     type: 10
     group: 1
@@ -5529,7 +5529,7 @@ MonoBehaviour:
   - blendshapeName: Cheek_Size
     type: 11
     group: 1
-    value: 51
+    value: 60
   - blendshapeName: Chin_Offset
     type: 12
     group: 1
@@ -5537,15 +5537,15 @@ MonoBehaviour:
   - blendshapeName: Eye_Width
     type: 13
     group: 1
-    value: 15
+    value: 0
   - blendshapeName: Eye_Form
     type: 14
     group: 1
-    value: 72
+    value: 50
   - blendshapeName: Eye_InnerCorner
     type: 15
     group: 1
-    value: 24
+    value: 65
   - blendshapeName: Eye_Corner
     type: 16
     group: 1
@@ -5553,11 +5553,11 @@ MonoBehaviour:
   - blendshapeName: Eye_Rotation
     type: 17
     group: 1
-    value: 0
+    value: 56
   - blendshapeName: Eye_Offset
     type: 18
     group: 1
-    value: 0
+    value: 37
   - blendshapeName: Eye_OffsetH
     type: 19
     group: 1
@@ -5565,7 +5565,7 @@ MonoBehaviour:
   - blendshapeName: Eye_ScaleX
     type: 20
     group: 1
-    value: 46
+    value: 89
   - blendshapeName: Eye_ScaleY
     type: 21
     group: 1
@@ -5573,31 +5573,31 @@ MonoBehaviour:
   - blendshapeName: Eye_Size
     type: 22
     group: 1
-    value: 8
+    value: 26
   - blendshapeName: Eye_Close
     type: 23
     group: 1
-    value: 0
+    value: 10
   - blendshapeName: Eye_Height
     type: 24
     group: 1
-    value: 0
+    value: 8
   - blendshapeName: Brow_Height
     type: 25
     group: 1
-    value: 0
+    value: 10
   - blendshapeName: Brow_Shape
     type: 26
     group: 1
-    value: 54
+    value: 80
   - blendshapeName: Brow_Thickness
     type: 27
     group: 1
-    value: 17
+    value: 0
   - blendshapeName: Brow_Length
     type: 28
     group: 1
-    value: 0
+    value: 13
   - blendshapeName: Nose_Length
     type: 29
     group: 1
@@ -5605,19 +5605,19 @@ MonoBehaviour:
   - blendshapeName: Nose_Size
     type: 30
     group: 1
-    value: 0
+    value: 19
   - blendshapeName: Nose_Angle
     type: 31
     group: 1
-    value: 51
+    value: 25
   - blendshapeName: Nose_Offset
     type: 32
     group: 1
-    value: 23
+    value: 20
   - blendshapeName: Nose_Bridge
     type: 33
     group: 1
-    value: 0
+    value: 17
   - blendshapeName: Nose_Hump
     type: 34
     group: 1
@@ -5625,7 +5625,7 @@ MonoBehaviour:
   - blendshapeName: Mouth_Offset
     type: 35
     group: 1
-    value: 11
+    value: 12
   - blendshapeName: Mouth_Width
     type: 36
     group: 1
@@ -5687,8 +5687,8 @@ MonoBehaviour:
     group: 2
     value: 100
   Skin: {r: 0.7075472, g: 0.4805981, b: 0.4038359, a: 1}
-  Eye: {r: 0.21593091, g: 0.26415092, b: 0.21057314, a: 0}
-  Hair: {r: 0.2924528, g: 0.15040429, b: 0, a: 0}
+  Eye: {r: 0.3123494, g: 0.4528302, b: 0.3011748, a: 0}
+  Hair: {r: 0.745283, g: 0.60025525, b: 0.3480331, a: 1}
   Underpants: {r: 0.5660378, g: 0.5660378, b: 0.5660378, a: 1}
   OralCavity: {r: 0.6901961, g: 0.2901961, b: 0.3019608, a: 1}
   Teeth: {r: 0.8, g: 0.8, b: 0.8, a: 1}
@@ -5906,7 +5906,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 1
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300012, guid: 4b3d6be02d496cc4ba6547ed6122d614, type: 3}
+  m_Mesh: {fileID: 4300016, guid: 22e96424c8244c94c9e181ff91150a70, type: 3}
   m_Bones:
   - {fileID: 7696153221864729904}
   - {fileID: 1906061495636429354}
@@ -6103,16 +6103,16 @@ SkinnedMeshRenderer:
   - 0
   - 100
   - 0
-  - 0
-  - 10
+  - 49
+  - 12
   - 25
-  - 15
   - 0
-  - 46
+  - 56
+  - 89
   - 24
+  - 26
+  - 10
   - 8
-  - 0
-  - 0
   - 37
   m_RootBone: {fileID: 7696153221864729904}
   m_AABB:
@@ -7454,8 +7454,8 @@ SkinnedMeshRenderer:
   - {fileID: 6841038797894710252}
   m_BlendShapeWeights:
   - 37
-  - 0
-  - 0
+  - 8
+  - 37
   m_RootBone: {fileID: 7696153221864729904}
   m_AABB:
     m_Center: {x: 0.000000005122274, y: 0.01935458, z: -0.022495536}
@@ -8354,36 +8354,36 @@ SkinnedMeshRenderer:
   - 0
   - 100
   - 0
-  - 10
+  - 42
+  - 81
+  - 49
+  - 12
   - 0
-  - 0
-  - 10
-  - 0
-  - 51
+  - 60
   - 25
-  - 15
-  - 72
-  - 24
-  - 17
   - 0
-  - 46
+  - 50
+  - 65
+  - 17
+  - 56
+  - 89
   - 24
+  - 26
+  - 10
   - 8
+  - 37
   - 0
+  - 10
+  - 80
   - 0
+  - 13
   - 0
-  - 0
-  - 0
-  - 54
+  - 19
+  - 25
+  - 20
   - 17
-  - 0
-  - 0
-  - 0
-  - 51
-  - 23
-  - 0
   - 16
-  - 11
+  - 12
   - 73
   - 7
   - 0
@@ -9428,7 +9428,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 1
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300022, guid: 4b3d6be02d496cc4ba6547ed6122d614, type: 3}
+  m_Mesh: {fileID: 4300028, guid: 22e96424c8244c94c9e181ff91150a70, type: 3}
   m_Bones:
   - {fileID: 7696153221864729904}
   - {fileID: 1906061495636429354}
@@ -10561,8 +10561,8 @@ SkinnedMeshRenderer:
   - {fileID: 6841038797894710252}
   m_BlendShapeWeights:
   - 37
-  - 0
-  - 0
+  - 8
+  - 37
   m_RootBone: {fileID: 7696153221864729904}
   m_AABB:
     m_Center: {x: 0.000000005122274, y: 0.01935458, z: -0.022495536}
@@ -10967,8 +10967,8 @@ SkinnedMeshRenderer:
   - {fileID: 6841038797894710252}
   m_BlendShapeWeights:
   - 37
-  - 0
-  - 0
+  - 8
+  - 37
   m_RootBone: {fileID: 7696153221864729904}
   m_AABB:
     m_Center: {x: 0.000000005122274, y: 0.01935458, z: -0.022495536}
@@ -11083,7 +11083,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 1
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300004, guid: 4b3d6be02d496cc4ba6547ed6122d614, type: 3}
+  m_Mesh: {fileID: 4300000, guid: 22e96424c8244c94c9e181ff91150a70, type: 3}
   m_Bones:
   - {fileID: 7696153221864729904}
   - {fileID: 1906061495636429354}
@@ -11624,34 +11624,34 @@ SkinnedMeshRenderer:
   - 0
   - 100
   - 0
-  - 10
-  - 0
-  - 0
-  - 10
-  - 51
+  - 42
+  - 81
+  - 49
+  - 12
+  - 60
   - 25
-  - 15
-  - 72
-  - 24
+  - 0
+  - 50
+  - 65
   - 17
-  - 0
-  - 0
-  - 46
+  - 56
+  - 37
+  - 89
   - 24
+  - 26
+  - 10
   - 8
+  - 10
+  - 80
   - 0
+  - 13
   - 0
-  - 0
-  - 54
+  - 19
+  - 25
+  - 20
   - 17
-  - 0
-  - 0
-  - 0
-  - 51
-  - 23
-  - 0
   - 16
-  - 11
+  - 12
   - 73
   - 7
   - 0
